@@ -1,0 +1,528 @@
+id,song_title,song_artist
+T1_TEST_0001,Felicidad (De La Serie ‘Berlín’ De Netflix),Pedro Alonso (Ft. Tristan Ulloa)
+T1_TEST_0002,La ley del monte,Vicente Fernández
+T1_TEST_0003,Maestra,Elvis Martinez
+T1_TEST_0004,El Cairo,Golden Boyz (Ft. Mc Maury)
+T1_TEST_0005,En Tu Perra Vida,Grupo Firme & Lenin Ramírez
+T1_TEST_0006,Te Regalo,Carlos Baute
+T1_TEST_0007,La Mejor Versión De Mí (Remix),NATTI NATASHA & Romeo Santos
+T1_TEST_0008,Singapur,Pablo Chill-E (Ft. Yung Beef)
+T1_TEST_0009,Mírame a los Ojos,Loren
+T1_TEST_0010,Ya no quiero tu querer,José El Francés
+T1_TEST_0011,Propuesta Indecente,Romeo Santos
+T1_TEST_0012,El Piloto,Grupo Codiciado
+T1_TEST_0013,¡Viva Satana!,Babasónicos
+T1_TEST_0014,Aquí Me Tienes,Santiago Cruz
+T1_TEST_0015,"Reina de corazones (Live At Palacio De Los Deportes, México/2011)",Alejandra Guzmán (Ft. Moderatto)
+T1_TEST_0016,Pamparoso (Remix),"Kiko El Crazy, Rochy RD & Xylon (PR) (Ft. Suazo Baby)"
+T1_TEST_0017,Dale Caliente,Daddy Yankee
+T1_TEST_0018,Soy,Cardenales De Nuevo León
+T1_TEST_0019,Zun Da Da,Zion
+T1_TEST_0020,Gata de Qué la Corrés,El Traidor y Los Pibes
+T1_TEST_0021,Me Castiga Dios,Los Panchos
+T1_TEST_0022,En la Cárcel De Tu Adiós,Vicente Fernández
+T1_TEST_0023,Ingrata Mujer,Media Naranja
+T1_TEST_0024,Hey!,Julio Iglesias
+T1_TEST_0025,No Volveré,Gipsy Kings
+T1_TEST_0026,Contra la Pared (GTA Remix),Sean Paul & J Balvin
+T1_TEST_0027,Inocente,Romeo Santos
+T1_TEST_0028,Cuando Regreses,Santiago Cruz
+T1_TEST_0029,El Broche Dorado,Bacilos
+T1_TEST_0030,El rey del guateque - medley,La decada prodigiosa
+T1_TEST_0031,Goteo,Duki
+T1_TEST_0032,Machucando,Daddy Yankee
+T1_TEST_0033,Cuando el Amor Se Acaba,RBD
+T1_TEST_0034,La Chispa Adecuada (Rarezas),Héroes Del Silencio
+T1_TEST_0035,El Señor De La Silla,Calibre 50
+T1_TEST_0036,Vengo del Barrio,L-Gante
+T1_TEST_0037,"Lo Pasado, Pasado",José José
+T1_TEST_0038,Debilidad,Lyanno
+T1_TEST_0039,Nacimos Pa Morir,Anuel AA (Ft. Jory Boy)
+T1_TEST_0040,Rubí,Babasónicos
+T1_TEST_0041,Cuando Yo Quiera Has De Volver,Laura Canales
+T1_TEST_0042,Devuélveme,Ozuna
+T1_TEST_0043,Ya Saben Que Hacer,Niche LS & Isaac S.A
+T1_TEST_0044,Por Ley,Anuel AA
+T1_TEST_0045,Morena Linda,1995 (Producer)
+T1_TEST_0046,Te Quiero Igual,Andrés Calamaro
+T1_TEST_0047,Pa’ Morir Se Nace,Arcángel (Ft. La Exce)
+T1_TEST_0048,Mujer De Hielo,Ivan
+T1_TEST_0049,Hoy Te Vas,Ciro y los Persas
+T1_TEST_0050,Conexión,"Foreign Teck, Justin Quiles & Jay Wheeler (Ft. Bryant Myers, Eladio Carrión & Tory Lanez)"
+T1_TEST_0051,La tropa loca,Cuatro Pesos de Propina
+T1_TEST_0052,Rucón,Alemán
+T1_TEST_0053,Agosto,Héroes Del Silencio
+T1_TEST_0054,Ciego,Fanso (Ft. Cráneo)
+T1_TEST_0055,Cuándo Volverás,Aventura
+T1_TEST_0056,¿Quieres Ser Mi Amante?,Camilo Sesto
+T1_TEST_0057,El Diablo Es Mujer,Guillo & Ozby (Ft. Brray & Joyce Santana)
+T1_TEST_0058,Poesía de la Oscuridad,C.R.O (Bardero$)
+T1_TEST_0059,Tal Vez,Paulo Londra
+T1_TEST_0060,Sr. Cobranza,Bersuit Vergarabat
+T1_TEST_0061,Eslabón Por Eslabón,Los Invasores de Nuevo Leon
+T1_TEST_0062,SE ME OLVIDA,Maisak & Feid
+T1_TEST_0063,Vestido Mojado,La tropa chicana
+T1_TEST_0064,Búscame,Kany García (Ft. Carlos Vives)
+T1_TEST_0065,ARRANCA PAL CARAJO,"KAROL G, Juanka & Brray"
+T1_TEST_0066,Casamiento De Negros,Milton Nascimento (Ft. Grupo Tacuabé)
+T1_TEST_0067,Amor casual,Osky vlk
+T1_TEST_0068,Espiando a mi vecina,Un pinguino en mi ascensor
+T1_TEST_0069,El taquicardio,El Komander
+T1_TEST_0070,Corazón Culpable,Antony Santos
+T1_TEST_0071,El doblar de las campanas,Quilate
+T1_TEST_0072,Guerrera,DELLAFUENTE & C. Tangana
+T1_TEST_0073,Los Rezos,Luna de Cáncer
+T1_TEST_0074,Cielo Rojo,Luis Miguel
+T1_TEST_0075,La Loca,El Trono De México
+T1_TEST_0076,Mujeres Divinas,Vicente Fernández
+T1_TEST_0077,El Egoísta,Sobrepensante
+T1_TEST_0078,Malvada,J Balvin
+T1_TEST_0079,Cuenta la Leyenda,C-Kan (Ft. Flowker Slick)
+T1_TEST_0080,Me Estoy Muriendo,Nicky Jam (Ft. RKM & Ken-Y)
+T1_TEST_0081,N Uno el Perfil o el Chavalon,Grupo Maximo Grado
+T1_TEST_0082,Lo que quise saber,El último vecino (Ft. Xenia)
+T1_TEST_0083,Todo Cambió,Camila
+T1_TEST_0084,Mi Religión,T3r Elemento
+T1_TEST_0085,Timbalero,El Gran Combo de Puerto Rico
+T1_TEST_0086,Tu me quemas,Eddie Santiago
+T1_TEST_0087,Rakata,Wisin & Yandel
+T1_TEST_0088,Cuatro copas,José Alfredo Jiménez
+T1_TEST_0089,Recuerdos de un amor,Rosana
+T1_TEST_0090,Diles,Bad Bunny
+T1_TEST_0091,Viaje Al Desierto,Nucleo Aka Tinta Sucia
+T1_TEST_0092,Taka Taka,La Materialista (Ft. Nfasis)
+T1_TEST_0093,Duele Demasiado,David Bisbal
+T1_TEST_0094,Pop Ur Pussy,C. Tangana
+T1_TEST_0095,Desnudate Mujer,Frankie Ruiz
+T1_TEST_0096,A la sombra de una mentira,Rosendo
+T1_TEST_0097,BICHOTA,KAROL G
+T1_TEST_0098,Mientes,Camila
+T1_TEST_0099,El Camionero,Frankie Ruiz
+T1_TEST_0100,No Soy un Buen Amigo,Nicolicio
+T1_TEST_0101,Mi Último Deseo,Banda Los Recoditos
+T1_TEST_0102,AZUL,Sharif (Ft. Yoss Bones)
+T1_TEST_0103,Oveja Negra,La Polla Records
+T1_TEST_0104,Eco Friendly,Blackthoven (Ft. Pimp Flaco)
+T1_TEST_0105,Buscando El Ki,Ak4:20
+T1_TEST_0106,Sigo de pie,La Firma
+T1_TEST_0107,EL MAKINON,KAROL G & Mariah Angeliq
+T1_TEST_0108,Nadie Entiende,Daniela Romo
+T1_TEST_0109,Mi Último Fracaso,Vicente Fernández
+T1_TEST_0110,Marimar,Thalía
+T1_TEST_0111,Carta De Un Padre,Farruko & Onell Díaz
+T1_TEST_0112,Hasta La Miel Amarga,"Luis Ángel ""El Flaco"" (Ft. Grupo Firme)"
+T1_TEST_0113,Te Quise Olvidar,Juan Gabriel
+T1_TEST_0114,Amante Del Amor,Luis Miguel
+T1_TEST_0115,Esclavo y amo,Javier Solís
+T1_TEST_0116,Amor fingido,Conjunto Primavera
+T1_TEST_0117,Chica Embarazada,Gloria Trevi
+T1_TEST_0118,El Drip,Natanael Cano
+T1_TEST_0119,Así Fue,Isabel Pantoja
+T1_TEST_0120,Un Ramito de Violetas,Cecilia
+T1_TEST_0121,Cuando Volveras,Alvaro Soler
+T1_TEST_0122,Soberbio,Romeo Santos
+T1_TEST_0123,Hola (Remix),"Dalex, Lenny Tavárez & Chencho Corleone (Ft. Dímelo Flow & Juhn)"
+T1_TEST_0124,Tragos Amargos,Ramon Ayala
+T1_TEST_0125,Desde Que Te Fuiste,Franco Escamilla & Dj Sonicko
+T1_TEST_0126,Llamarada,Luis Miguel
+T1_TEST_0127,Perdóname,Pablo Alborán
+T1_TEST_0128,La Botella,Justin Quiles & Maluma
+T1_TEST_0129,El Ranchero Chido,Vaquero's Musical
+T1_TEST_0130,La Venganza de Maria,Los Cadetes De Linares
+T1_TEST_0131,Para Amarnos Mas,Mijares
+T1_TEST_0132,Boba Niña Nice (Teenage Superstar),Belinda
+T1_TEST_0133,Barrio triste,El Último De La Fila
+T1_TEST_0134,Mujeres Y Hombres Y Viceversa,Barrio Sur
+T1_TEST_0135,No Sé Olvidar,Alejandro Fernández
+T1_TEST_0136,Si Quisieras,Angeles De La Bachata
+T1_TEST_0137,Libertad Sin Ira,Jarcha
+T1_TEST_0138,Dime Si Eres Feliz,Tito Rojas
+T1_TEST_0139,Golpes en el Corazón (Live At Folsom Prison),Los Tigres Del Norte
+T1_TEST_0140,Mi Fantasía,Nicky Jam (Ft. Messiah)
+T1_TEST_0141,El Coba,Rochy RD
+T1_TEST_0142,Imitadora,Romeo Santos
+T1_TEST_0143,Zapatos nuevos,El Canijo de Jerez
+T1_TEST_0144,Abrázame Muy Fuerte,Juan Gabriel
+T1_TEST_0145,Horas Tristes,Mueran Humanos
+T1_TEST_0146,Amor Sin Medida,José Alfredo Jiménez
+T1_TEST_0147,Hazme olvidarla,Willie Gonzalez
+T1_TEST_0148,Pequeñas cosas,Willie Gonzalez
+T1_TEST_0149,Te Suelto El Pelo,Wisin & Yandel
+T1_TEST_0150,El Embrujo,Morat (Ft. Antonio Carmona & Josemi Carmona)
+T1_TEST_0151,Tu Sangre,Lucybell
+T1_TEST_0152,Cara De Niño,Jerry Rivera
+T1_TEST_0153,Coronao Now,El Alfa & Lil Pump
+T1_TEST_0154,Te Llamé Borracho,Boy Wonder CF (Ft. Darkiel & Jon Z)
+T1_TEST_0155,La Media Vuelta,José Alfredo Jiménez
+T1_TEST_0156,Aquel Viejo Motel,David Pabon
+T1_TEST_0157,Guachita,Tunacola
+T1_TEST_0158,Un Verano Sin Ti,Bad Bunny
+T1_TEST_0159,No Eres Tú,KYOTTO & SUSHIKING (Ft. Rele)
+T1_TEST_0160,Rafa Caro,T3r Elemento
+T1_TEST_0161,Alma En Llamas,Villanos
+T1_TEST_0162,Que Me Lleve El Diablo,Los Huracanes Del Norte
+T1_TEST_0163,A Fuego (Remix),Bizarrap (Ft. DrefQuila)
+T1_TEST_0164,No Quiero Verte,Rvfv & Keen Levy
+T1_TEST_0165,Albur de Amor,Antonio Aguilar
+T1_TEST_0166,Se Hace La Dificil,J Álvarez (Ft. Voltio)
+T1_TEST_0167,Qué Precio Tiene el Cielo (Salsa),Marc Anthony
+T1_TEST_0168,Cielo,Benny Ibarra
+T1_TEST_0169,Ando Bien Pedo,Banda Los Recoditos
+T1_TEST_0170,Hasta el Amanecer,Nicky Jam
+T1_TEST_0171,Mujeres,Ricardo Arjona
+T1_TEST_0172,Historia De Taxi,Ricardo Arjona
+T1_TEST_0173,El Muchacho de la Barba (En Vivo),Marca MP
+T1_TEST_0174,CALIENTA ESTO,Jean Carlos
+T1_TEST_0175,Por Tu Culpa,Porte Diferente
+T1_TEST_0176,Hacer El Amor,KEVIN ROLDAN & De La Ghetto
+T1_TEST_0177,No Me Quiero Enamorar,Kalimba
+T1_TEST_0178,Rutina,Myke Towers
+T1_TEST_0179,Visite Nuestro Bar,Hombres G
+T1_TEST_0180,Vasos Vacíos,Los Fabulosos Cadillacs
+T1_TEST_0181,El Carnaval,Baby Rasta y Gringo
+T1_TEST_0182,Sigue moviéndome el piso,Liván El Mesias
+T1_TEST_0183,Me Sacaron Del Tenampa,Cornelio Reyna (Ft. Mariachi Oro Y Plata)
+T1_TEST_0184,Pecadora,Marissa Mur
+T1_TEST_0185,Puerta Abierta,Juhn (Ft. Bad Bunny & Noriel)
+T1_TEST_0186,Me Gustas Para Mi,Akwid
+T1_TEST_0187,Me Pides Tu Libertad,Los Rehenes
+T1_TEST_0188,Bounce,Cazzu
+T1_TEST_0189,Amada Mía,Elvis Martinez
+T1_TEST_0190,Sufriendo por ti,Ayzak Ewan
+T1_TEST_0191,A Mí Me Está Doliendo,Banda MS de Sergio Lizárraga
+T1_TEST_0192,La Puerta Negra,Los Tigres Del Norte
+T1_TEST_0193,Te Extraño,Ovi & Junior H
+T1_TEST_0194,Soy el Diablo (Remix),Natanael Cano & Bad Bunny
+T1_TEST_0195,Que Viva La Vida,Wisin
+T1_TEST_0196,Malévola,Anuel AA
+T1_TEST_0197,Caile (Remix),"Luar La L (Ft. De La Ghetto, Jowell & Tito ""El Bambino"")"
+T1_TEST_0198,Aquel Amor,Pedro Vargas
+T1_TEST_0199,El Alma Al Aire,Alejandro Sanz
+T1_TEST_0200,El Cuaderno,El Jincho
+T1_TEST_0201,Que no te enteras,Little Pepe
+T1_TEST_0202,Rastaman-Dita,Molotov
+T1_TEST_0203,No Llores Mujer,Anuel AA & Travis Barker
+T1_TEST_0204,Sombras Nada Más,Héctor Lavoe
+T1_TEST_0205,Tonto Corazon,Los Acosta
+T1_TEST_0206,La Murga,"Héctor Lavoe, Willie Colón & Yomo Toro"
+T1_TEST_0207,Qué Bonito Amor,Javier Solís
+T1_TEST_0208,Un Beso Y Una Flor,Nino Bravo
+T1_TEST_0209,Popurri de Juan Gabriel,Paco barrón y sus norteños clan
+T1_TEST_0210,Tu Recuerdo,C.R.O (Bardero$)
+T1_TEST_0211,Loco de Amor (Con los crespos hechos),Luis Vargas
+T1_TEST_0212,Bobote (Remix),"El Experimento, Ceky Viciny & La Insuperable (Ft. Bulin 47, El Bloonel, El Boke, Gatillero 23, Jc La Nevula, La Sabiduria, Onguito Wa, Químico Ultra Mega, Rochy RD & Yofrangel)"
+T1_TEST_0213,"Vuelve, Vuelve",David Bisbal & Danna Paola
+T1_TEST_0214,Lloro por Ti,Enrique Iglesias
+T1_TEST_0215,Se Acaba El Tiempo,Ari & El Arkeólogo
+T1_TEST_0216,"Ni Contigo, Ni Sin Ti",Pepe Aguilar
+T1_TEST_0217,Ladrón de Corazones,La Húngara
+T1_TEST_0218,Sergio El Bailador,Bronco
+T1_TEST_0219,"Princesita Sofía, Canción Apertura",The Cast of Sofia the First
+T1_TEST_0220,Pamela,Pibes Chorros
+T1_TEST_0221,Gogo Dance,El Alfa
+T1_TEST_0222,El Amor,"Tito ""El Bambino"""
+T1_TEST_0223,Adicto,"Tainy, Anuel AA & Ozuna"
+T1_TEST_0224,La Desconocida,Big Soto & ADSO
+T1_TEST_0225,La Secretaria,Banda Machos
+T1_TEST_0226,No Llores Más,Simone & Simaria & Sebastián Yatra
+T1_TEST_0227,Ya No Me Importa,Siggno
+T1_TEST_0228,Dime que falto,Zacarías Ferreira
+T1_TEST_0229,La Diferencia,Vicente Fernández
+T1_TEST_0230,Corazon de Tiza,Radio Futura
+T1_TEST_0231,Traime A Tu Amiga (Remix),Farruko (Ft. Arcángel & Voltio)
+T1_TEST_0232,TE FUISTE,Rapiero
+T1_TEST_0233,Infiel,"Eix, Brytiago & Rauw Alejandro (Ft. Los Fantastikos)"
+T1_TEST_0234,Pena Tras Pena,Banda El Recodo de Cruz Lizárraga
+T1_TEST_0235,Niñas Mal,Nikki Clan
+T1_TEST_0236,Perros,Elilluminari & VillaBanks
+T1_TEST_0237,Quien Te Quiere Como Yo,Carlos Baute
+T1_TEST_0238,Lágrimas De Cristal,Grupo Montéz De Durango
+T1_TEST_0239,Me Muero,Carlos Rivera
+T1_TEST_0240,Me Voy Pa’l Party,Nicky Jam
+T1_TEST_0241,Pinche Juan,Café Tacvba
+T1_TEST_0242,Ámame Una Vez Más,Amanda Miguel & Diego Verdaguer
+T1_TEST_0243,La Perla,Ismael Rivera
+T1_TEST_0244,El Blues de la Llanta,El Tri
+T1_TEST_0245,Carnaval,Maluma
+T1_TEST_0246,Es Mi Mujer,Emmanuel
+T1_TEST_0247,Mi princesa,Victor muñoz
+T1_TEST_0248,Mujer,Agustín Lara
+T1_TEST_0249,Amor Perdido,Delilah Cabrera
+T1_TEST_0250,Hasta Cuando???!!! Hasta Siempre!!,La Pestilencia
+T1_TEST_0251,Una Pura Y Dos Con Sal,Dinora Y La Juventud
+T1_TEST_0252,El Martillo,Caramelos de Cianuro
+T1_TEST_0253,Por Mujeres Como Tú,Pepe Aguilar
+T1_TEST_0254,Mala Mujer,C. Tangana
+T1_TEST_0255,Aquí Estoy,La Nueva Era & Junior H
+T1_TEST_0256,Mucha Data,Cazzu
+T1_TEST_0257,El Corrido De Los Ovnis,El Alacrán de Los Angeles
+T1_TEST_0258,Vivir Sin Ti,Ana Emilia & Carolina Ross
+T1_TEST_0259,El Cepillo,Fulanito (Ft. Arsenio de la Rosa)
+T1_TEST_0260,Mueve Mueve (I Like To Move It),Sandy & Papo Mc
+T1_TEST_0261,Azúcar Amargo,Fey
+T1_TEST_0262,Cómo Fué,Beny Moré
+T1_TEST_0263,Polvo Maldito,Los Cadetes De Linares
+T1_TEST_0264,Gan-Ga (Remix),Bryant Myers (Ft. Anuel AA)
+T1_TEST_0265,Y Tú,Julión Álvarez y su Norteño Banda
+T1_TEST_0266,La Cumbanchera de Belén,Celia Cruz y La Sonora Matancera
+T1_TEST_0267,En esta ciudad,Cecilia Toussaint
+T1_TEST_0268,Ya No Soy Tu Amigo,Policías y Ladrones
+T1_TEST_0269,Me Llamas,José Luis Perales
+T1_TEST_0270,La Culpable,Big Boy (PR) (Ft. Rafy Santana)
+T1_TEST_0271,Por Un Rato,Aroma
+T1_TEST_0272,La Diabla,Xavi (MEX)
+T1_TEST_0273,Disculpe Usted,Sergio Vega “El Shaka”
+T1_TEST_0274,AUNQUE ME DUELA,Gonzy
+T1_TEST_0275,Lamento Tu Pérdida,NATTI NATASHA
+T1_TEST_0276,Carnaval,Lucybell
+T1_TEST_0277,Pa Que Guaye,Alex Rose & CNCO
+T1_TEST_0278,Nadie Tiene Que Saber,El Boy C (Ft. Farruko)
+T1_TEST_0279,Lugar Vacante,MIGLIO (ESP)
+T1_TEST_0280,La muerte del soplón,Los Tigres Del Norte
+T1_TEST_0281,No Podrás Escapar De Mí,Willie Gonzalez
+T1_TEST_0282,Entre cantina y cantina,Ram herrera
+T1_TEST_0283,Querida,Juan Gabriel
+T1_TEST_0284,Muñequita Linda,"Juan Magán, Deorro & MAKJ (Ft. YFN Lucci)"
+T1_TEST_0285,Como Duele Equivocarse,Carín León (Ft. Espinoza Paz)
+T1_TEST_0286,No Respires,Rekiem
+T1_TEST_0287,Pepas,Farruko
+T1_TEST_0288,Tragos de Amargo Licor,Blnko (Ft. Axolotes Mexicanos)
+T1_TEST_0289,El Tiempo Pasa,The Louk Warriors
+T1_TEST_0290,Procuro Olvidarte,Operación Triunfo 2017 (Ft. Aitana)
+T1_TEST_0291,Tu Cárcel,Los Bukis
+T1_TEST_0292,Soy Todo Tuyo,Los Tucanes De Tijuana
+T1_TEST_0293,Vuelve Conmigo,Conjunto Primavera
+T1_TEST_0294,Como Animales,Gonzalo Tambornini
+T1_TEST_0295,¿Qué Será De Ti Mañana?,Alex Anwandter
+T1_TEST_0296,La del morro prieto,Smak (Jay Levorson) (Ft. La risa de Asgard & Neemeye)
+T1_TEST_0297,A Lo Mejor,Banda MS de Sergio Lizárraga
+T1_TEST_0298,Cortinas Guindas,Hijos De Barrón
+T1_TEST_0299,Niña Bonita,Feid & Sean Paul
+T1_TEST_0300,Siempre Te Voy A Querer,Calibre 50
+T1_TEST_0301,Cama y mesa,Fernando Villalona
+T1_TEST_0302,Has Cambiado Mi Vida,Camela
+T1_TEST_0303,Psicofonía,Gloria Trevi
+T1_TEST_0304,Te estás pasando,Mentiras el Musical (Ft. Mariana Treviño)
+T1_TEST_0305,Ya Lo Sé,Jenni Rivera
+T1_TEST_0306,Un gato en la oscuridad,Yahir
+T1_TEST_0307,Bulería,David Bisbal
+T1_TEST_0308,La Maldita Primavera,Yuri (MEX)
+T1_TEST_0309,Selva Negra,Maná
+T1_TEST_0310,Maldito sea tu amor,Estela Nuñez
+T1_TEST_0311,Mal Romance,Riff (ARG)
+T1_TEST_0312,Contigo En La Distancia,César Portillo de la Luz
+T1_TEST_0313,Odio Amarte,Ha-Ash
+T1_TEST_0314,Aguanta Corazón,Los Invasores de Nuevo Leon
+T1_TEST_0315,Revienta,División Minúscula
+T1_TEST_0316,Mariposa Traicionera,Maná
+T1_TEST_0317,Muñeca,PXNDX
+T1_TEST_0318,La Esa,Los Árboles
+T1_TEST_0319,Eres Mi Todo,KAROL G & KEVIN ROLDAN
+T1_TEST_0320,La Muerte Pobre,Eterna Inocencia
+T1_TEST_0321,Amigo Con Derechos,Jary Franco
+T1_TEST_0322,Dónde Estás?,Reality & Totoy El Frio
+T1_TEST_0323,En La Disco Bailoteo,Wisin & Yandel
+T1_TEST_0324,Ellos No Saben,Santamarta
+T1_TEST_0325,SI SUPIERAS,Eslabon Armado & DannyLux
+T1_TEST_0326,Enséñame a Olvidarte,Intocable
+T1_TEST_0327,MALA SANTA,Becky G
+T1_TEST_0328,Pensando En Ti,Pablo Chill-E (Ft. Chuchu Retro)
+T1_TEST_0329,De Mi Enamorate,Daniela Romo
+T1_TEST_0330,"Papi, reinicia el programa",Don Peligro & Tr Maker
+T1_TEST_0331,Mi Vicio Más Grande,Banda El Recodo de Cruz Lizárraga
+T1_TEST_0332,Pingüinos en la Cama,Ricardo Arjona
+T1_TEST_0333,A Prueba de Balas,"Dayme & El High, Lenny Tavárez, Jeeiph & Ele A El Dominio"
+T1_TEST_0334,Vete de Mí,Ana Guerra
+T1_TEST_0335,Amor De Papel,Sentidos Opuestos
+T1_TEST_0336,Tu Recuerdo y Yo,José Alfredo Jiménez
+T1_TEST_0337,Súbete,Lary Over & Lirico En La Casa
+T1_TEST_0338,La Novelita,Aventura
+T1_TEST_0339,Corazón en la Maleta,Luis Fonsi
+T1_TEST_0340,No Te Vayas,Camilo
+T1_TEST_0341,Los puritos huesos,La Arrolladora Banda El Limón De René Camacho
+T1_TEST_0342,Solita,"Ozuna, Mambo Kingz & DJ Luian (Ft. Almighty, Bad Bunny & Wisin)"
+T1_TEST_0343,Criminal,NATTI NATASHA & Ozuna
+T1_TEST_0344,Para Ti Solita,Banda Los Recoditos
+T1_TEST_0345,Eterno lamento,Abörigen
+T1_TEST_0346,Ley Seca,JHAYCO & Anuel AA
+T1_TEST_0347,La Mujer De Mi Vida,Ricardo Montaner
+T1_TEST_0348,Ya Me Cansé,Klave & Aywa
+T1_TEST_0349,Me Dejaste Acostumbrado by La Arrolladora Banda el Limón de Rene Camacho,La Arrolladora Banda El Limón De René Camacho
+T1_TEST_0350,Tóxico,Brytiago & Myke Towers
+T1_TEST_0351,Hace Mucho Tiempo,Arcángel
+T1_TEST_0352,Bonita,J Balvin & Jowell & Randy
+T1_TEST_0353,Si Tú Quieres,"Yampi, Ozuna & Anuel AA (Ft. Pusho)"
+T1_TEST_0354,Escapémonos,Marc Anthony & Jennifer Lopez
+T1_TEST_0355,Reggaeton Champagne,Bellakath & Dani Flow
+T1_TEST_0356,Vivo Por Ella (Vivo Per Lei) - Italian - Spanish Version With Marta Sanchez,Andrea Bocelli
+T1_TEST_0357,Hay Amores Que Matan,Pimpinela
+T1_TEST_0358,​​el jardinero,Gus
+T1_TEST_0359,La reina de África,Javier Ruibal
+T1_TEST_0360,Calentura,Juhn
+T1_TEST_0361,La Batalla,Phil Wickham & Christine D'Clario (Ft. Christine D'Clario)
+T1_TEST_0362,Regalame Una Noche,Los Inquietos del Vallenato
+T1_TEST_0363,Que Lloro,Sin Bandera
+T1_TEST_0364,Aunque Me Duela El Alma,Vicente Fernández
+T1_TEST_0365,Yo Ya No Vuelvo Contigo (En Vivo),Lenin Ramírez (Ft. Grupo Firme)
+T1_TEST_0366,El Guacarock De La Malinche,Botellita De Jerez
+T1_TEST_0367,Tu Carcel,Alta Consigna
+T1_TEST_0368,A La Orilla De Un Palmar,The Chieftains (Ft. Linda Ronstadt & Ry Cooder)
+T1_TEST_0369,Hoja En Blanco,Monchy & Alexandra
+T1_TEST_0370,Adios Mariquita Linda,"Nat ""King"" Cole"
+T1_TEST_0371,Nuestro Juramento,Julio Jaramillo
+T1_TEST_0372,El Centenario,Los Tucanes De Tijuana
+T1_TEST_0373,Voy A Llorar Por Ti,Los Rieleros Del Norte
+T1_TEST_0374,Burbujas de Cristal,Cartel de Santa & Millonario
+T1_TEST_0375,Amor Venme A Buscar (Tell It To My Heart),Il Divo
+T1_TEST_0376,Tan Fácil,CNCO
+T1_TEST_0377,La faldita,Coco (Band)
+T1_TEST_0378,El Viaje,Teresa Parodi (Ft. Carlos Aguirre)
+T1_TEST_0379,Nomas contigo,Mario Quintero
+T1_TEST_0380,Y Aquí Estoy,Ana Gabriel
+T1_TEST_0381,Tú No Le Amas Le Temes,Luis Enrique
+T1_TEST_0382,Llévame Contigo,Romeo Santos
+T1_TEST_0383,Te Necesito,Anuel AA
+T1_TEST_0384,El Tsurito,"Junior H, Gabito Ballesteros & Peso Pluma"
+T1_TEST_0385,Guerra Interna,Yer & Zexxion
+T1_TEST_0386,Acompáñame,DrefQuila
+T1_TEST_0387,Se Preparó,Ozuna
+T1_TEST_0388,Felices los 4,Maluma
+T1_TEST_0389,El Cuatrero,Vicente Fernández
+T1_TEST_0390,Prenda Del Alma,Chalino Sánchez
+T1_TEST_0391,Que Bonito,Banda El Recodo de Cruz Lizárraga
+T1_TEST_0392,Cásate Conmigo,Silvestre Dangond & Nicky Jam
+T1_TEST_0393,Ay Vamos,J Balvin
+T1_TEST_0394,Quien Contra Mi,Redimi2 (Ft. El Leo Pa')
+T1_TEST_0395,Solo se vive una vez,Azúcar Moreno
+T1_TEST_0396,Descansando,Fuerza Regida
+T1_TEST_0397,Detalles,Oscar D'León
+T1_TEST_0398,Chau Adiós,Kachangos Malechores
+T1_TEST_0399,Bajé Con Trenzas,El Cherry Scom & Kiko El Crazy
+T1_TEST_0400,El Traicionero,El Bordo
+T1_TEST_0401,Colombia Tierra Querida,Lucho Bermúdez (Ft. Matilde Díaz)
+T1_TEST_0402,No Me Olvidarás,Elvis Crespo
+T1_TEST_0403,El Jefe X,Los Tucanes De Tijuana
+T1_TEST_0404,Desnuda,Ricardo Arjona
+T1_TEST_0405,La dieta,Los Tigres Del Norte
+T1_TEST_0406,A Lo Lejos Me Veran,El de La Guitarra
+T1_TEST_0407,NO TE QUIERO VER MAL,Yung Beef (Ft. Albany)
+T1_TEST_0408,Por Esa Mujer,Tito Rojas
+T1_TEST_0409,Esa Mujer,José José
+T1_TEST_0410,Fantasía Sexual,"Myke Towers, Rauw Alejandro & Lunay (Ft. Brytiago & Revol)"
+T1_TEST_0411,Volverte A Ver,Juanes
+T1_TEST_0412,Dulce Veneno,Andy Montañez
+T1_TEST_0413,Aventura,"Lunay, Ozuna & Anuel AA"
+T1_TEST_0414,La Nota,"Manuel Turizo, Rauw Alejandro & Myke Towers"
+T1_TEST_0415,No me amenaces,José Alfredo Jiménez
+T1_TEST_0416,¡Esta Noche es la Reunión!,José Madero
+T1_TEST_0417,Sin Miedo a Nada,Alex Ubago (Ft. Amaia Montero)
+T1_TEST_0418,"Sexo, Pudor Y Lágrimas",Aleks Syntek
+T1_TEST_0419,Mi Princesa,Remmy Valenzuela
+T1_TEST_0420,Tú Eres Para Mí,Isabella Castillo (Ft. Andrés Mercado)
+T1_TEST_0421,No Eres Tu Soy Yo,Tito Y Su Torbellino
+T1_TEST_0422,¿Quién Tú Eres?,Bad Bunny
+T1_TEST_0423,Te He De Querer,Pedro Infante
+T1_TEST_0424,Lo mejor Qué puedo hacer (Maqueta inédita),Hombres G
+T1_TEST_0425,Mientes Tan Bien,Chili Fernández
+T1_TEST_0426,La Paloma Negra,Kadril & Alumea
+T1_TEST_0427,Deseándote,"Nath (COL), Ryan Castro & SOG"
+T1_TEST_0428,Fractúbela,Tino el Pingüino
+T1_TEST_0429,Yo no quiero llamarme como me llamo,Alberto Cortez
+T1_TEST_0430,Tu Corazón,Twice Música
+T1_TEST_0431,Calle Sin Salida,Tempo
+T1_TEST_0432,Te conozco bacalao,Gegga
+T1_TEST_0433,Me voy a quitar de en medio,Vicente Fernández
+T1_TEST_0434,Animal,La Ley
+T1_TEST_0435,El Mismo,Rochy RD & Poeta Callejero
+T1_TEST_0436,Mentiras,Toteking
+T1_TEST_0437,Te Presumo,Banda El Recodo de Cruz Lizárraga
+T1_TEST_0438,TE DESEO LO MEJOR,Bad Bunny
+T1_TEST_0439,El desmadre,Brujeria
+T1_TEST_0440,Del Barrio a La Ciudad,T3r Elemento & Farruko
+T1_TEST_0441,YA NO TE EXTRAÑO,NATTI NATASHA
+T1_TEST_0442,Nunca Ganaremos El Mundial,La Habitación Roja
+T1_TEST_0443,Haciéndolo,Ozuna (Ft. Nicky Jam)
+T1_TEST_0444,El Coco,Neutro Shorty
+T1_TEST_0445,Te Buscaría,Cristian Castro
+T1_TEST_0446,Me Estás Tentando,Wisin & Yandel
+T1_TEST_0447,Cariño Nuevo,Miguel Y Miguel
+T1_TEST_0448,Déjame Llorar,Ricardo Montaner
+T1_TEST_0449,Nena,Miguel Bosé
+T1_TEST_0450,Brindo Por Tu Cumpleaños,Los Caminantes
+T1_TEST_0451,Dímelo,Paulo Londra
+T1_TEST_0452,Te Voy A Perder,Alejandro Fernández
+T1_TEST_0453,Lo Mejor de Tu Vida,Julio Iglesias
+T1_TEST_0454,La vecinita,K-Paz De La Sierra
+T1_TEST_0455,Esta tarde vi llover,Armando Manzanero
+T1_TEST_0456,A mover la colita,La Sonora Dinamita
+T1_TEST_0457,Morenita mia,Antonio Aguilar
+T1_TEST_0458,La Enredadera,Amaia Montero
+T1_TEST_0459,Necesito Una Compañera,Los Bukis
+T1_TEST_0460,Infieles,Neutro Shorty
+T1_TEST_0461,Me Estoy Enamorando,La Mafia
+T1_TEST_0462,Suelas embarradas,La 25
+T1_TEST_0463,Soltero Disponible,Régulo Caro
+T1_TEST_0464,Pidan lo que quieran,La 25
+T1_TEST_0465,Saturno devorando un hijo,Lenguaje de Viboras
+T1_TEST_0466,"Mi alma está asombrada, mi Dios Creador, Escritor e inmensamente Grande” (SFC No.62 Cap.9 en MIm con variaciòn en popurrì SFC No.47)",Ricardo Claure Peñaloza
+T1_TEST_0467,La Llamada (Remix),"Noriel (Ft. Almighty, Bryant Myers, Brytiago & Darkiel)"
+T1_TEST_0468,Impermeable,Ha-Ash
+T1_TEST_0469,Touchdown,Kidd Keo (Ft. Alemán)
+T1_TEST_0470,Cuando El amor Se Acaba,José Feliciano
+T1_TEST_0471,APAGAITA,Ingratax
+T1_TEST_0472,En Tus Pupilas,Shakira
+T1_TEST_0473,Copa Tras Copa,Pedro Infante
+T1_TEST_0474,Estamos Ready,Green Valley (Ft. Fyahbwoy)
+T1_TEST_0475,La Negra No Quiere,Grupo Niche
+T1_TEST_0476,Y LLORO,Junior H
+T1_TEST_0477,Paso a Paso,Grupo Codiciado
+T1_TEST_0478,Permíteme aplaudir,Homer el Mero Mero & Alemán
+T1_TEST_0479,La Colcha Sucia,Pibes Chorros
+T1_TEST_0480,Vayase de Ahí (Remix),"El Mayor Clásico, Juanka & Ceky Viciny (Ft. Haraca Kiko, La Insuperable, Musicólogo The Libro, Pablo Chill-E & Pacho El Antifeka)"
+T1_TEST_0481,Yo Te Extrañaré,Tercer Cielo
+T1_TEST_0482,Serenata Huasteca,José Alfredo Jiménez
+T1_TEST_0483,Más que amigos,Matisse
+T1_TEST_0484,A Mis Enemigos,Valentín Elizalde
+T1_TEST_0485,La chuparrosa,Los Cachorros de Juan Villarreal
+T1_TEST_0486,Barrios Bajos,LEGADO 7 (Ft. Fuerza Regida & Los Chavalos De La Perla)
+T1_TEST_0487,Ahora Que Te Vas,Christian Daniel
+T1_TEST_0488,Mis Travesuras,Traviezoz de la Zierra
+T1_TEST_0489,WOW,Bryant Myers
+T1_TEST_0490,El Corrido Del Chapo,Los Alteños De La Sierra
+T1_TEST_0491,Te Conozco Bien,Marc Anthony
+T1_TEST_0492,El padrino - de tal,Fulanito
+T1_TEST_0493,No Hay Cama Pa’ Tanta Gente,El Gran Combo de Puerto Rico
+T1_TEST_0494,Bésame,Yandel
+T1_TEST_0495,Quien Eres Tu,Nelson Ned
+T1_TEST_0496,Quien te dijo eso,Engelbert Humperdinck (Ft. Luis Fonsi)
+T1_TEST_0497,Tiburón,Rubén Blades
+T1_TEST_0498,Necio,Romeo Santos (Ft. Carlos Santana)
+T1_TEST_0499,Así Fue (Dúo),Juan Gabriel (Ft. Isabel Pantoja)
+T1_TEST_0500,Desesperado - versión ranchero,José José
+T1_TEST_0501,Un Sueño,Rauw Alejandro & Trippie Redd
+T1_TEST_0502,Corrido De Lucio Vásquez,"Adan ""Chalino"" Sanchez"
+T1_TEST_0503,María Bonita,Agustín Lara
+T1_TEST_0504,Dónde Está El Amor,Pablo Alborán (Ft. Jesse & Joy)
+T1_TEST_0505,Por El Amor De Una Mujer,Julio Iglesias
+T1_TEST_0506,Sueño Feliz,Tatiana
+T1_TEST_0507,Como Pude Enamorarme De Ti,Patrulla 81
+T1_TEST_0508,Un Montón,Perras on the Beach
+T1_TEST_0509,Cruz de Olvido,Vicente Fernández
+T1_TEST_0510,Tu Camino Y El Mio,Vicente Fernández
+T1_TEST_0511,El Palo,Arcángel
+T1_TEST_0512,Sácala,"Daddy Yankee, Don Omar & Héctor “El Father” (Ft. Tego Calderón, Voltio, Wisin & Yandel & Zion)"
+T1_TEST_0513,Mis Tres Animales,Los Tucanes De Tijuana
+T1_TEST_0514,Las Niñas de Hoy en Día... 1.5,Porta
+T1_TEST_0515,Los tres de Zacatecas,Los Tigres Del Norte
+T1_TEST_0516,Hey Si Me Ven,Cartel de Santa
+T1_TEST_0517,El bato gacho,Graciela Beltran
+T1_TEST_0518,La Noche,Joe Arroyo
+T1_TEST_0519,_La Aseguradora de Incendios,_juno (ESP)
+T1_TEST_0520,La Mas Bonita De Todas,Los Dareyes De La Sierra
+T1_TEST_0521,Baila Para Mi,Standly
+T1_TEST_0522,NO ME DEJO VER,Myke Towers
+T1_TEST_0523,LEYENDAS,"KAROL G, Nicky Jam & Wisin & Yandel (Ft. Alberto Stylee, Ivy Queen & Zion)"
+T1_TEST_0524,Baño de mujeres,Manuel Mijares
+T1_TEST_0525,Mi Eterno Amor Secreto,Marco Antonio Solís
+T1_TEST_0526,Barrunto,Willie Colón
+T1_TEST_0527,Y Qué Pasó?,"EZ Made Da Beat (Ft. Ele A El Dominio, Jamby El Favo & Joniel)"

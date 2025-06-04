@@ -1,0 +1,1169 @@
+id,song_title,song_artist,label
+T2_TRAIN_0001,Jamás,Camilo Sesto,NR
+T2_TRAIN_0002,Que Te Vaya Bonito,José Alfredo Jiménez,NR
+T2_TRAIN_0003,Ella (Me Canse De Rogarle),Cartel de Santa,H
+T2_TRAIN_0004,Te Conozco,Ricardo Arjona,S
+T2_TRAIN_0005,El Hombre Divertido,Wilfrido Vargas,NR
+T2_TRAIN_0006,Ahora Dice (Real Hasta La Muerte Remix),"Chris Jedi, J Balvin & Ozuna (Ft. Anuel AA, Arcángel, Cardi B & Offset)",S
+T2_TRAIN_0007,En Remolinos,Soda Stereo,NR
+T2_TRAIN_0008,Hermanita,Aventura,V
+T2_TRAIN_0009,Como Quisiera Olvidarte,Raulin Rodriguez,V
+T2_TRAIN_0010,El Columpio,Los Rieleros Del Norte,V
+T2_TRAIN_0011,Yo Tomo,Bersuit Vergarabat,V
+T2_TRAIN_0012,Métele Sazón,Tego Calderón,S
+T2_TRAIN_0013,Mi Tenampa,Pedro Infante,NR
+T2_TRAIN_0014,Krippy Kush,"Rvssian, Farruko & Bad Bunny",H
+T2_TRAIN_0015,Safaera,"Bad Bunny, Jowell & Randy & Ñengo Flow",S
+T2_TRAIN_0016,Abuso de Autoridad,Three souls in my mind,NR
+T2_TRAIN_0017,Sigo Fresh,Fuego & Duki,H
+T2_TRAIN_0018,Cheque en blanco,Natos y Waor (Ft. Zetazen),S
+T2_TRAIN_0019,Ya no quiero,Jesse & Joy,NR
+T2_TRAIN_0020,5 Letras,Alexis y Fido,S
+T2_TRAIN_0021,El Mechón,Banda MS de Sergio Lizárraga,NR
+T2_TRAIN_0022,Sobredosis,Romeo Santos (Ft. Ozuna),S
+T2_TRAIN_0023,TUS LÁGRIMAS,Mora & Sech,S
+T2_TRAIN_0024,Por Qué No Te Callas,Dirty Suc,V
+T2_TRAIN_0025,Tocarte Toa,"RKM & Ken-Y (Ft. Carlitos Way (PR), La India, Nicky Jam & Polakan)",S
+T2_TRAIN_0026,Yo Te Daría Mi Vida,Banda El Recodo de Cruz Lizárraga,V
+T2_TRAIN_0027,Despídete,Dulce María,NR
+T2_TRAIN_0028,La Gitanilla,Banda El Recodo de Cruz Lizárraga,NR
+T2_TRAIN_0029,Sexto Sentido,Gigolo Y La Exce (Ft. Bad Bunny),S
+T2_TRAIN_0030,Nota de Amor,Wisin (Ft. Carlos Vives & Daddy Yankee),S
+T2_TRAIN_0031,Trucho,Rochy RD (Ft. Kiko El Crazy),NR
+T2_TRAIN_0032,Si No Le Contesto,Plan B,S
+T2_TRAIN_0033,Voy A Llenarte Toda,José José,NR
+T2_TRAIN_0034,Tú No Metes Cabra,Bad Bunny,NR
+T2_TRAIN_0035,Somos de Calle,Daddy Yankee,NR
+T2_TRAIN_0036,Inolvidable,Ovy On The Drums & Beéle,NR
+T2_TRAIN_0037,Zun Zun Rompiendo Caderas,Wisin & Yandel,S
+T2_TRAIN_0038,Ella Ya no cree en el Amor (cover),Wilmar Ayala,NR
+T2_TRAIN_0039,Nido de amor,Michael Stuart,S
+T2_TRAIN_0040,Tu Circo,Eiza,NR
+T2_TRAIN_0041,Si Pudiera Amarte,Myriam Hernández,NR
+T2_TRAIN_0042,Choca,Plan B,S
+T2_TRAIN_0043,El Polvito Del Amor,Amar Azul,S
+T2_TRAIN_0044,A Escondidas,$kyhook & Morad,S
+T2_TRAIN_0045,Que Se Sienta,Héctor “El Father” (Ft. Yomo),S
+T2_TRAIN_0046,El Adios,Mda & IAMTOMMY,V
+T2_TRAIN_0047,El 24,El Tigrillo Palma,NR
+T2_TRAIN_0048,El Teléfono,Héctor “El Father” & Wisin & Yandel,S
+T2_TRAIN_0049,Si Te Vas,Shakira,H
+T2_TRAIN_0050,Punto Final,Gepe,NR
+T2_TRAIN_0051,Usted,Luis Miguel,H
+T2_TRAIN_0052,Un Año Más,Ana Torroja,NR
+T2_TRAIN_0053,Prendemos,"Fino Como El Haze, JHAYCO & Lunay",S
+T2_TRAIN_0054,Que Bonita Es Mi Tierra,Patrulla 81,NR
+T2_TRAIN_0055,Vete,Bad Bunny,S
+T2_TRAIN_0056,La Chucha,Banda Carnaval,NR
+T2_TRAIN_0057,Tú Te Imaginas,De La Ghetto,S
+T2_TRAIN_0058,El Pelo Chino,Banda MS de Sergio Lizárraga,NR
+T2_TRAIN_0059,Estamos Melos,Bomby (Ft. Donkirap),S
+T2_TRAIN_0060,Capullo Y Sorullo,La Sonora Dinamita,NR
+T2_TRAIN_0061,Si Se Da,Myke Towers & Farruko,V
+T2_TRAIN_0062,Relación (Remix),"Sech, Daddy Yankee & J Balvin (Ft. Farruko & ROSALÍA)",V
+T2_TRAIN_0063,Chambonea,Nicky Jam,S
+T2_TRAIN_0064,AM Remix,"Nio García, J Balvin & Bad Bunny",S
+T2_TRAIN_0065,Tengo,Emmanuel,NR
+T2_TRAIN_0066,Te quiero para mí,Trigo limpio,V
+T2_TRAIN_0067,Sin Tu Calor,Xenon (Ft. Gema Tomás),NR
+T2_TRAIN_0068,Piedra Angular,Tino el Pingüino,S
+T2_TRAIN_0069,Como Yo Nadie Te Ha Amado (This Ain’t A Love Song),Bon Jovi,V
+T2_TRAIN_0070,Hablamos Mañana,"Bad Bunny, Duki & Pablo Chill-E",S
+T2_TRAIN_0071,Voló La Paloma,Los Palmeras,NR
+T2_TRAIN_0072,50 Sombras de Austin,Arcángel & DJ Luian,S
+T2_TRAIN_0073,Dímelo (I Need To Know),Marc Anthony,NR
+T2_TRAIN_0074,"Sí, sí",Los Ronaldos,V
+T2_TRAIN_0075,Hacerte de To’,De La Ghetto,S
+T2_TRAIN_0076,Taboga,Oscar D'León,NR
+T2_TRAIN_0077,Palabrutas,Magnatiz,S
+T2_TRAIN_0078,Alguien Como Tú,Jósean Log,S
+T2_TRAIN_0079,El Manual,"Ergo Pro, Ill Pekeño & Dano",V
+T2_TRAIN_0080,Quiero morir en tu veneno,Alejandro Sanz,NR
+T2_TRAIN_0081,Una Copa Más,Pibes Chorros,NR
+T2_TRAIN_0082,Dime Que Sí,Jay Wheeler & DJ Nelson,NR
+T2_TRAIN_0083,Sabrá Dios,Andrés Cepeda,NR
+T2_TRAIN_0084,Llorarás,Oscar D'León,V
+T2_TRAIN_0085,Flotao,"Sayian Jimmy, Standly, Yishark, Tobal Mj, Benji la Maldita Escritura De Oro & Nysix Music",V
+T2_TRAIN_0086,Una Aventura,Lucas Arnau & J Alvarez,S
+T2_TRAIN_0087,En Que Fallé,Los Tigres Del Norte,NR
+T2_TRAIN_0088,Que Paso?,Gren4up (Ft. Brayan Trampa & Various Artists),S
+T2_TRAIN_0089,Cuando Pase el Temblor,Soda Stereo,NR
+T2_TRAIN_0090,Disfruto Lo Malo,Natanael Cano & Junior H,H
+T2_TRAIN_0091,Sin Pijama,Becky G & NATTI NATASHA,S
+T2_TRAIN_0092,Sexo Sin Título,Maluma (Ft. Jay Wheeler & Lenny Tavárez),S
+T2_TRAIN_0093,Muevan Las Industrias,Los Prisioneros,NR
+T2_TRAIN_0094,Himno De Mi Corazón,Los Abuelos De La Nada,NR
+T2_TRAIN_0095,El senor de la montana,Los Canelos de Durango,NR
+T2_TRAIN_0096,P FKN R,"Bad Bunny, Kendo Kaponi & Arcángel",S
+T2_TRAIN_0097,Juegos Prohibidos,Nicky Jam,S
+T2_TRAIN_0098,El Juidero,Chimbala & Bulin 47,H
+T2_TRAIN_0099,Confesión,La Arrolladora Banda El Limón De René Camacho,S
+T2_TRAIN_0100,Te Quiero Pa’ Mí,Don Omar & Zion & Lennox,S
+T2_TRAIN_0101,Uno Entre Mil,Mijares,NR
+T2_TRAIN_0102,Pelo Suelto,Gloria Trevi,NR
+T2_TRAIN_0103,Ay Mami,"Tito ""El Bambino"" (Ft. Bryant Myers)",S
+T2_TRAIN_0104,Enséñame a Olvidar,Aventura,NR
+T2_TRAIN_0105,Mira Niñita,Los Jaivas,NR
+T2_TRAIN_0106,Todo Comienza En La Disco,"Wisin, Daddy Yankee & Yandel",S
+T2_TRAIN_0107,El Perro (Cilantro’s Song),American Dad Cast,NR
+T2_TRAIN_0108,Hello Cotto,Duki,NR
+T2_TRAIN_0109,No Me Digas Que No,Enrique Iglesias (Ft. Wisin & Yandel),S
+T2_TRAIN_0110,Bajo presión,Khan,NR
+T2_TRAIN_0111,El Andariego,Cornelio Reyna,H
+T2_TRAIN_0112,Caretas,Ismael Miranda,NR
+T2_TRAIN_0113,No Te Equivoques,The Rudeboyz (Ft. Greeicy),S
+T2_TRAIN_0114,Si nos dejan,José Alfredo Jiménez,NR
+T2_TRAIN_0115,LO QUE QUIERAS,Eslabon Armado,S
+T2_TRAIN_0116,Clave Privada,Los Tucanes De Tijuana,NR
+T2_TRAIN_0117,Que nada nos cambie,(Me Llamo) Sebastián,NR
+T2_TRAIN_0118,Ranchero y gallardo,El Komander,S
+T2_TRAIN_0119,Un Get,Ozuna,S
+T2_TRAIN_0120,FEKA,"De La Ghetto, El Alfa & Miky Woodz",V
+T2_TRAIN_0121,Que Tu Sabes De Esto,PJ Sin Suela (Ft. Myke Towers),NR
+T2_TRAIN_0122,Siguiendo La Luna,Los Fabulosos Cadillacs,H
+T2_TRAIN_0123,Luna Llena,Paulo Londra,NR
+T2_TRAIN_0124,AM,Nio García & Flow La Movie,S
+T2_TRAIN_0125,3 de Abril,Anuel AA,S
+T2_TRAIN_0126,El avión de la muerte,Los Tigres Del Norte,NR
+T2_TRAIN_0127,Contigo en la Distancia,Luis Miguel,NR
+T2_TRAIN_0128,Follarte,Estopa,S
+T2_TRAIN_0129,Azuquita pa’l cafe,El Gran Combo de Puerto Rico,S
+T2_TRAIN_0130,Desacato Escolar,"Leo RD, Tokischa & Yomel El Meloso",S
+T2_TRAIN_0131,Rap vs. Racismo,"El Chojin (Ft. El Santo, Gitano Antón, Kase.O, Langui, Locus, Lírico, Nach, Nerviozzo, OSE, Sho-Hai, Titó, Xhelazz & Zatu)",NR
+T2_TRAIN_0132,Me Voy Pa’L Pueblo,Los Panchos,NR
+T2_TRAIN_0133,La Entalladita,Chalino Sánchez,S
+T2_TRAIN_0134,Quien Me Atraca a Mi (Remix),Yailin la Mas Viral & Haraca Kiko,NR
+T2_TRAIN_0135,¿Por Qué No Se Van?,Los Prisioneros,NR
+T2_TRAIN_0136,Rompe,Daddy Yankee,S
+T2_TRAIN_0137,La Fundillo Loco,El Gran Martín Elías,V
+T2_TRAIN_0138,La Jeepeta,"Nio García, Brray & Juanka",S
+T2_TRAIN_0139,Pásame La Botella,"IAmChino, Deorro & Pitbull (Ft. Mariah Angeliq)",S
+T2_TRAIN_0140,Lloraras,RKM & Ken-Y,NR
+T2_TRAIN_0141,Mujer Argentina,Nanu,H
+T2_TRAIN_0142,#Adicta,"Neftali (Ft. Alex Carter, Bryant Myers & Nio García)",S
+T2_TRAIN_0143,Nunca Voy A Olvidarte,Cristian Castro,NR
+T2_TRAIN_0144,Sauceboy (Freestyle),Eladio Carrión,V
+T2_TRAIN_0145,Incondicional,Prince Royce,NR
+T2_TRAIN_0146,"Tú Si Quieres, Tú No Quieres",Omega El Fuerte,S
+T2_TRAIN_0147,Te Hice Mujer,Wisin & Yandel,S
+T2_TRAIN_0148,Niña de Mis Ojos,The Change (RD) & Leon Leiden,NR
+T2_TRAIN_0149,Nada será igual,La Quinta Estación,NR
+T2_TRAIN_0150,El Teléfono,"Anonimus, Noriel & Ele A El Dominio (Ft. Lyanno)",S
+T2_TRAIN_0151,Solín,Maldita Vecindad y Los Hijos del Quinto Patio,NR
+T2_TRAIN_0152,Lléname De Ti,Marcos Vidal,NR
+T2_TRAIN_0153,No Era Necesarío (Versíón Demo),Reyli Barba,NR
+T2_TRAIN_0154,Hasta Que Salga El Sol,Banda Los Recoditos,NR
+T2_TRAIN_0155,Nada Que Hacer,Violadores del Verso,NR
+T2_TRAIN_0156,Gasolina,Daddy Yankee,S
+T2_TRAIN_0157,Préndete Un Blunt (Remix),"MC Davo, C-Kan & Dharius (Ft. Zimple)",S
+T2_TRAIN_0158,Noviembre Sin Ti,Reik,NR
+T2_TRAIN_0159,Stripper,Luar La L & Alura El Sol,V
+T2_TRAIN_0160,Desnudarte,Brytiago & Jay Wheeler,V
+T2_TRAIN_0161,Volvere,K-Paz De La Sierra,NR
+T2_TRAIN_0162,Clavado en un Bar,Maná,H
+T2_TRAIN_0163,Cuatro milpas,Antonio Aguilar,NR
+T2_TRAIN_0164,Belleza de Cantina,Cardenales De Nuevo León,NR
+T2_TRAIN_0165,Viajera,Frankie Ruiz,S
+T2_TRAIN_0166,El Tamarindo,Kinito Mendez,S
+T2_TRAIN_0167,Ella y Yo,"Pepe Quintana (Ft. Almighty, Anuel AA, Bryant Myers, Farruko & Tempo)",S
+T2_TRAIN_0168,Amor de pobre,José Alfredo Jiménez,NR
+T2_TRAIN_0169,Blunt De Guayaba,Simpson Ahuevo,S
+T2_TRAIN_0170,Sueño Contigo,Draco Rosa,S
+T2_TRAIN_0171,EL PADRINO,Feid,S
+T2_TRAIN_0172,Adictiva,Daddy Yankee & Anuel AA,V
+T2_TRAIN_0173,De Qué Me Sirve La Vida,Camila,NR
+T2_TRAIN_0174,Vas A Quedarte,Aitana,V
+T2_TRAIN_0175,Luna Llena,Elvis Crespo,NR
+T2_TRAIN_0176,Tu Juguete,J Álvarez,NR
+T2_TRAIN_0177,Pa Mí (Remix),"Dalex, Rafa Pabön & KHEA (Ft. Cazzu, Feid, Lenny Tavárez & Sech)",S
+T2_TRAIN_0178,Solo Importas Tú,CNCO,NR
+T2_TRAIN_0179,El Peor De Mis Fracasos,Marco Antonio Solís,NR
+T2_TRAIN_0180,Genio y Figura,Andy Montañez,NR
+T2_TRAIN_0181,La Santa,Bad Bunny & Daddy Yankee,S
+T2_TRAIN_0182,Quiero Saber de Ti,Los Inquietos del Vallenato,NR
+T2_TRAIN_0183,Mía,Armando Manzanero,S
+T2_TRAIN_0184,Mujer paseada,Ramón Ayala y Sus Bravos Del Norte,V
+T2_TRAIN_0185,El Sancho,La Sombra (Grupo),S
+T2_TRAIN_0186,Mátalas,Alejandro Fernández,V
+T2_TRAIN_0187,Desvelado,Bobby Pulido,NR
+T2_TRAIN_0188,La Voz de la Experiencia,Celia Cruz (Ft. La India),NR
+T2_TRAIN_0189,Ciudad oscura,Tren Loco,NR
+T2_TRAIN_0190,Muriendo Lento,C.R.O (Bardero$) & Franky Style,S
+T2_TRAIN_0191,Me Compré Un Full (Real G Remix),"Ñengo Flow, Casper Mágico, Sinfónico, Darell, Ele A El Dominio, Jon Z & Mackie",V
+T2_TRAIN_0192,No soy monedita de oro,Banda Machos,V
+T2_TRAIN_0193,La Enorme Distancia,José Alfredo Jiménez,S
+T2_TRAIN_0194,El Señorón,Los Inquietos del Norte,NR
+T2_TRAIN_0195,Despacio,"NATTI NATASHA, Nicky Jam & Manuel Turizo (Ft. DJ Luian, Mambo Kingz & Myke Towers)",S
+T2_TRAIN_0196,Bésame,Valentino (Ft. Manuel Turizo),S
+T2_TRAIN_0197,Caprichosa María,Emmanuel,NR
+T2_TRAIN_0198,El Perdedor,Maluma,NR
+T2_TRAIN_0199,Y Te Vas :P,​suei & AG Sixteen,NR
+T2_TRAIN_0200,Te Vas a Acordar De Mí,Tex tex,S
+T2_TRAIN_0201,El Gran Varón,Willie Colón,NR
+T2_TRAIN_0202,Fresa,TINI & Lalo Ebratt,NR
+T2_TRAIN_0203,Mala Fama,Danna Paola,NR
+T2_TRAIN_0204,La Ausente (EL BOSQUE),Niños Mutantes,NR
+T2_TRAIN_0205,Mi Complemento Eres Tú,Dunamai,NR
+T2_TRAIN_0206,La Curiosidad,"Jay Wheeler, DJ Nelson & Myke Towers",S
+T2_TRAIN_0207,Una Vez Más,Apolo Kidd (Ft. LIT killah),S
+T2_TRAIN_0208,La Carcacha,Selena,NR
+T2_TRAIN_0209,La Ciudad De La Esperanza,Panteón Rococó,S
+T2_TRAIN_0210,La Bebe (David Guetta Remix) [Extended Version],"Yng Lvcas, Peso Pluma & David Guetta",S
+T2_TRAIN_0211,Con El Alma Desnuda,Alex Bueno,NR
+T2_TRAIN_0212,Que No Quede Huella,Bronco,NR
+T2_TRAIN_0213,Bandido,Myke Towers & Juhn,S
+T2_TRAIN_0214,Regalame un Beso,Mr. Blacky el Dj,S
+T2_TRAIN_0215,No Es Justo,J Balvin & Zion & Lennox,S
+T2_TRAIN_0216,Desobediente,Noriel (Ft. Alexis y Fido),V
+T2_TRAIN_0217,Voy a Celebrarlo,Lágrimas de Sangre,NR
+T2_TRAIN_0218,Ella es todo,Alberto Gambino,S
+T2_TRAIN_0219,Cascos Ligeros,Alejandro Fernández,H
+T2_TRAIN_0220,La balacera,Cuatro Pesos de Propina,NR
+T2_TRAIN_0221,Desacátate,La Materialista (Ft. Yomel El Meloso),S
+T2_TRAIN_0222,Dime a Ve,JHAYCO,S
+T2_TRAIN_0223,Chico Enamorado,El Ezequiel,S
+T2_TRAIN_0224,Bandido,DelaJowy & Morad,S
+T2_TRAIN_0225,Canalla,Romeo Santos (Ft. El Chaval de la Bachata),H
+T2_TRAIN_0226,Mayor Que Yo 3,"Luny Tunes (Ft. Daddy Yankee, Don Omar, Wisin & Yandel)",S
+T2_TRAIN_0227,Mala Mía,Maluma,S
+T2_TRAIN_0228,La Joyita,Pandesousa,S
+T2_TRAIN_0229,Eslabon Por Eslabon,Lalo Mora,NR
+T2_TRAIN_0230,Fanática Sensual,Plan B,S
+T2_TRAIN_0231,La Negra Tomasa (Versión Tropical),Caifanes,NR
+T2_TRAIN_0232,Linda Eh,Grupo Manía,S
+T2_TRAIN_0233,No te decides,Dudi,S
+T2_TRAIN_0234,Saboréalo,Vico C,S
+T2_TRAIN_0235,Te Va A Doler,Maelo Ruiz,S
+T2_TRAIN_0236,CENIZAS QUEDAN,Myke Towers,S
+T2_TRAIN_0237,Corazon Salvaje,Mijares,NR
+T2_TRAIN_0238,La chismosa,Los Campesinos de Bambamarca,H
+T2_TRAIN_0239,Cuál Es el Tabaco Más Caro Que Hay,Kinder Malo (Ft. Cecilio G.),V
+T2_TRAIN_0240,El Perro Negro,José Alfredo Jiménez,NR
+T2_TRAIN_0241,QUE ME FALTE TODO,Luck Ra & Abel Pintos,NR
+T2_TRAIN_0242,DONDE TE ESCONDES?,Yapi,S
+T2_TRAIN_0243,Te Busco,Sech (Ft. Alex Rose),S
+T2_TRAIN_0244,Idilio,Willie Colón,S
+T2_TRAIN_0245,Zorras,Chromazz,S
+T2_TRAIN_0246,El Próximo Viernes,Espinoza Paz,NR
+T2_TRAIN_0247,Tumbando caña - live version,Banda Maguey,NR
+T2_TRAIN_0248,Gas Montana (Remix),"Cazzu, Cumbia Trampa & Obie Wanshot",S
+T2_TRAIN_0249,La Mitotera,Banda Los Recoditos,H
+T2_TRAIN_0250,Buscándote,Mike Bahía,NR
+T2_TRAIN_0251,Eres Divina,Patrulla 81,NR
+T2_TRAIN_0252,Mátalos a Todos,Duo Kie,V
+T2_TRAIN_0253,La Guitarra,Los Auténticos Decadentes,NR
+T2_TRAIN_0254,Lejos de Aquí,Farruko,S
+T2_TRAIN_0255,Bandido (Remix),"Cyril Kamer, Rvfv & Cano",S
+T2_TRAIN_0256,Oye Cantinero,"Yubeili, DAAZ & Alka Produce",H
+T2_TRAIN_0257,Juliana,DLG (Dark Latin Groove) (Ft. Cuco Valoy),V
+T2_TRAIN_0258,Peli-Culeo,"Cazzu, De La Ghetto & Randy",S
+T2_TRAIN_0259,Cuerpo en Venta,"Noriel (Ft. Almighty, Myke Towers & Rauw Alejandro)",S
+T2_TRAIN_0260,Piensa En Mi,Grupo Mojado,NR
+T2_TRAIN_0261,Tú Mi Delirio,Astrud Gilberto,NR
+T2_TRAIN_0262,Vale la Pena el Placer,Romeo Santos,S
+T2_TRAIN_0263,Que Te Cuesta,Hades66,S
+T2_TRAIN_0264,La Cuña,Velandia y La Tigra,NR
+T2_TRAIN_0265,Pensamiento y palabra,Víctor Manuelle,NR
+T2_TRAIN_0266,Deseo Insaciable,Wilser andres,NR
+T2_TRAIN_0267,Panchito El F1,Los Tucanes De Tijuana,V
+T2_TRAIN_0268,Calientita,La Fiera de Ojinaga,NR
+T2_TRAIN_0269,Que ni para odiarle se me da licencia,Bely Basarte,NR
+T2_TRAIN_0270,Te Boté,"Nio García, Casper Mágico & Darell",S
+T2_TRAIN_0271,Que Sería,Anuel AA,S
+T2_TRAIN_0272,Gangster,"Amarion (Ft. Ñengo Flow, Jon Z, Juanka, Kendo Kaponi, Myke Towers, Pacho El Antifeka, Tempo & Yomo)",NR
+T2_TRAIN_0273,Tu Perfume,Nfasis (Ft. Niw El Decomputao),V
+T2_TRAIN_0274,Caseta De Cobro,El Tri,V
+T2_TRAIN_0275,Amiga Mía,Alejandro Sanz,NR
+T2_TRAIN_0276,Te Esperaré,Grupo Bryndis,S
+T2_TRAIN_0277,Pa’ Que Le De (Remix),"Bad Bunny (Ft. Brray, Joyce Santana, Álvaro Díaz, Myke Towers & Papi Sousa)",S
+T2_TRAIN_0278,7 Lágrimas (Remix),"Soge Culebra, Mora & GARABATTO",NR
+T2_TRAIN_0279,Se Desvive Por Ella (Remix),"La Sista, Miky Woodz & Darkiel (Ft. Casper Mágico & Pusho)",H
+T2_TRAIN_0280,Triste Navidad,DannyLux,NR
+T2_TRAIN_0281,La Morena,Oro Sólido,S
+T2_TRAIN_0282,Escápate Conmigo,Wisin (Ft. Ozuna),V
+T2_TRAIN_0283,La China,Javier rosas,NR
+T2_TRAIN_0284,Salomé,Chayanne,S
+T2_TRAIN_0285,Almas al Desnudo,Sólo los Solo (Ft. Tremendo),S
+T2_TRAIN_0286,Feliz,Estopa,S
+T2_TRAIN_0287,El Combo Me Llama (Remix),"Benny Benni (Ft. Christian Ponce, Cosculluela, Daddy Yankee, D.OZi, Farruko & Pusho)",S
+T2_TRAIN_0288,Baracunatana,Aterciopelados,H
+T2_TRAIN_0289,Viviré Sin Ti,Jhon Alex Castaño,NR
+T2_TRAIN_0290,El Hijo de la Sierra,Voces del Rancho,NR
+T2_TRAIN_0291,La Misma Gran Señora,Jenni Rivera,NR
+T2_TRAIN_0292,Pa’conquistarte,Eyci & Cody,NR
+T2_TRAIN_0293,Corazón Partío,Alejandro Sanz,NR
+T2_TRAIN_0294,Y Tú Te Vas,Chayanne,NR
+T2_TRAIN_0295,Te Vi Venir,Sin Bandera,NR
+T2_TRAIN_0296,LA NOCHE DE ANOCHE,Bad Bunny & ROSALÍA,S
+T2_TRAIN_0297,Todos Me Miran,Gloria Trevi,NR
+T2_TRAIN_0298,A ellas,Los Tigres Del Norte,NR
+T2_TRAIN_0299,Altata,Rangy (Ft. Tiago (MEX)),S
+T2_TRAIN_0300,Olvídame y pega la vuelta,Pimpinela,NR
+T2_TRAIN_0301,Cora Roto,Pablo Chill-E (Ft. Pailita),S
+T2_TRAIN_0302,El Rey Lloró,Los Gatos,NR
+T2_TRAIN_0303,La Calabaza,La Arrolladora Banda El Limón De René Camacho,V
+T2_TRAIN_0304,Vente Vamos A Bella^%#...,Las Guanábanas,S
+T2_TRAIN_0305,Cámara Lenta,Paulo Londra,V
+T2_TRAIN_0306,7 Vidas,La Matona Records (Ft. 7 Vidas),NR
+T2_TRAIN_0307,Agua Nueva,Cristian Castro,S
+T2_TRAIN_0308,Siente El Boom,"Boy Wonder CF (Ft. Randy & Tito ""El Bambino"")",S
+T2_TRAIN_0309,Milonga,Julio Iglesias,NR
+T2_TRAIN_0310,Si Saliera Petróleo,Juan Luis Guerra,NR
+T2_TRAIN_0311,Al Mismo Nivel,Conjunto Primavera,H
+T2_TRAIN_0312,Seducción,Thalía,V
+T2_TRAIN_0313,Saturno,Pablo Alborán,NR
+T2_TRAIN_0314,Te Tragas La Gasolina (Daddy Yankee díss),Patota,S
+T2_TRAIN_0315,Tú Me Acostumbraste,Natalia Lafourcade (Ft. Los Macorinos & Omara Portuondo),NR
+T2_TRAIN_0316,Mi chaqueta de cuero,C.R.O (Bardero$),S
+T2_TRAIN_0317,El capado,Los Razos,V
+T2_TRAIN_0318,Grita,Jarabe de Palo,NR
+T2_TRAIN_0319,Hasta Que Te Conocí,Juan Gabriel,NR
+T2_TRAIN_0320,Me Vale,Maná,NR
+T2_TRAIN_0321,Otra Vez Me Enamore,Juan Gabriel,NR
+T2_TRAIN_0322,La Muerte Chiquita,Café Tacvba,NR
+T2_TRAIN_0323,El Sinaloense,Banda El Recodo de Cruz Lizárraga,NR
+T2_TRAIN_0324,La Cola de Motora,Don Miguelo,S
+T2_TRAIN_0325,Pesadilla En El Parque de Atracciones,Los Planetas,H
+T2_TRAIN_0326,El Próximo Tonto,Banda Machos,H
+T2_TRAIN_0327,Juego De Seducción,Soda Stereo,V
+T2_TRAIN_0328,Dame Tu Mano,Pascal (PE),NR
+T2_TRAIN_0329,Que Lío,Willie Colón & Héctor Lavoe,S
+T2_TRAIN_0330,"Ciega, Sordomuda",Shakira,H
+T2_TRAIN_0331,Por un segundo,Aventura,V
+T2_TRAIN_0332,Esta Cobardía,Julio Iglesias,V
+T2_TRAIN_0333,Piensa en Mi,Cartel de Santa,S
+T2_TRAIN_0334,Mi Nena,Maikel Delacalle,S
+T2_TRAIN_0335,La Dueña del Swing,Los Hermanos Rosario,S
+T2_TRAIN_0336,Te Quise Tanto,Paulina Rubio,NR
+T2_TRAIN_0337,No me importa lo que me cuenten,El Chojin,H
+T2_TRAIN_0338,La Escuelita,Banda Los Recoditos,S
+T2_TRAIN_0339,Reloj,Rauw Alejandro & Anuel AA,S
+T2_TRAIN_0340,Me Gusta Tu Vieja,Banda MS de Sergio Lizárraga,S
+T2_TRAIN_0341,Fuego en el 23,Sonora Ponceña,NR
+T2_TRAIN_0342,Es Un Secreto,Plan B,S
+T2_TRAIN_0343,Me Acostumbré,Arcángel (Ft. Bad Bunny),S
+T2_TRAIN_0344,Noche de Sexo,Wisin & Yandel (Ft. Romeo Santos),S
+T2_TRAIN_0345,Tattoo (Remix),Rauw Alejandro & Camilo,S
+T2_TRAIN_0346,QUEMA,"Ryan Castro, Peso Pluma & SOG",S
+T2_TRAIN_0347,Gorra L.A.,Chino Pacas,NR
+T2_TRAIN_0348,La Suata,Banda MS de Sergio Lizárraga,H
+T2_TRAIN_0349,Enganchado a ti,Bunbury,NR
+T2_TRAIN_0350,Relación,Sech,NR
+T2_TRAIN_0351,Ruinas,C.R.O (Bardero$),S
+T2_TRAIN_0352,Mayor Que Usted,"NATTI NATASHA, Daddy Yankee & Wisin & Yandel",V
+T2_TRAIN_0353,Adiós a Mi Amante,Grupo Montéz De Durango,NR
+T2_TRAIN_0354,La Cura,Frankie Ruiz,V
+T2_TRAIN_0355,No Te Quiero Nada,Ha-Ash,NR
+T2_TRAIN_0356,Posdata:,Paulo Londra,NR
+T2_TRAIN_0357,Asesina,Bonny Cepeda,NR
+T2_TRAIN_0358,Se Te Ve La Tanga,Damas Gratis,S
+T2_TRAIN_0359,Barcos hundidos,AMBKOR,NR
+T2_TRAIN_0360,Dema Ga Ge Gi Go Gu,El Alfa (Ft. Bad Bunny),S
+T2_TRAIN_0361,Enloquéceme,OV7,NR
+T2_TRAIN_0362,La Bella Y La Bestia,Anuel AA,V
+T2_TRAIN_0363,Solo Una Noche,Óscar Maydon,S
+T2_TRAIN_0364,Hociquito de Ratón,Bersuit Vergarabat,NR
+T2_TRAIN_0365,Culpables,KAROL G & Anuel AA,S
+T2_TRAIN_0366,Noche de ronda,Agustín Lara,NR
+T2_TRAIN_0367,Muerte entre Las Flores,Mi.amargo,H
+T2_TRAIN_0368,Labios Compartidos,Maná,S
+T2_TRAIN_0369,Hechicera,Maná,S
+T2_TRAIN_0370,"Calle Luna, Calle Sol",Willie Colón & Héctor Lavoe,NR
+T2_TRAIN_0371,Que Grosero!,Las Ultrasónicas,V
+T2_TRAIN_0372,Morena Ven,Los Hermanos Rosario,S
+T2_TRAIN_0373,El Corrido De Cheo,Empresarios del Corrido,NR
+T2_TRAIN_0374,Te Haré el Amor / Tarjetita de Invitación / Pastorcita / Nunca Me Faltes (Mix Ídolos),Jordan (CHL),S
+T2_TRAIN_0375,De Rodillas,Reik,NR
+T2_TRAIN_0376,Ignorantes,Bad Bunny & Sech,S
+T2_TRAIN_0377,Que La Detengan,David Civera,NR
+T2_TRAIN_0378,Por Tu Maldito Amor,Vicente Fernández,NR
+T2_TRAIN_0379,Ven Devórame Otra Vez,Lalo Rodríguez,S
+T2_TRAIN_0380,Moviendo Caderas,Yandel (Ft. Daddy Yankee),S
+T2_TRAIN_0381,Enamorada Y Herida,Marisela,NR
+T2_TRAIN_0382,Deja el misterio,Alejo & Lil Joujou,S
+T2_TRAIN_0383,Amor de Mentiras,Dulce,NR
+T2_TRAIN_0384,Descansa en Paz Yeruza,"Jonna Torres, Jota Rivers, Palerrmo, Dei V, Clue (PR), Rvsell, YOVNGCHIMI, Espano, JonLee (PR) & Mathew (Ft. KAY KAY (PR) & Sahir)",H
+T2_TRAIN_0385,Me Tienes Loco,KEVIN ROLDAN,S
+T2_TRAIN_0386,Intro (A.D.R.O.M.I.C.F.M.S.),Yung Beef,NR
+T2_TRAIN_0387,El Taxi,"Pitbull (Ft. Dayami La Musa, Osmani Garcia ""La Voz"" & Sensato)",S
+T2_TRAIN_0388,La que se fue,Pedro Infante,NR
+T2_TRAIN_0389,Perréame,Wisin & Yandel (Ft. Jowell & Randy),S
+T2_TRAIN_0390,Fantasía o Realidad,Alex Ubago,NR
+T2_TRAIN_0391,Quisiera Ser Como El Cactus,Phuyu y la Fantasma,NR
+T2_TRAIN_0392,Las nachas,Banda Machos,S
+T2_TRAIN_0393,Maldito Duende,Héroes Del Silencio,NR
+T2_TRAIN_0394,No Drama,Becky G & Ozuna,S
+T2_TRAIN_0395,La calandria,Ramón Ayala y Sus Bravos Del Norte,NR
+T2_TRAIN_0396,Ya no eres la misma,Drew K. & Piru,NR
+T2_TRAIN_0397,MUJER FINA,"Jere Klein, Lucky Brown & Adan La Amenaza",S
+T2_TRAIN_0398,Mi Rival,GOMZ,NR
+T2_TRAIN_0399,Si Te Gusta,Andynsane,S
+T2_TRAIN_0400,Morena Mía,Girl Ultra,S
+T2_TRAIN_0401,La Rueda,Frankie Ruiz,V
+T2_TRAIN_0402,Por Mi Timidez,Antony Santos,H
+T2_TRAIN_0403,Pedro Navaja,Willie Colón & Rubén Blades,V
+T2_TRAIN_0404,La Descarada,Reyli,S
+T2_TRAIN_0405,Amorcito corazón,Luis Miguel,NR
+T2_TRAIN_0406,La luz de mis ojos,Elvis Martinez,S
+T2_TRAIN_0407,Me Llamo Raquel,Banda Machos,V
+T2_TRAIN_0408,El Tucanazo,Los Tucanes De Tijuana,NR
+T2_TRAIN_0409,El Maleante,Héctor & Tito,NR
+T2_TRAIN_0410,Besos Mojados,Wisin & Yandel,S
+T2_TRAIN_0411,Lento,Daniel Santacruz,NR
+T2_TRAIN_0412,Nadie Se Meta,Ala Jaza,NR
+T2_TRAIN_0413,Regresa Hermosa,Gerardo Ortiz,NR
+T2_TRAIN_0414,No Llores,D.OZi (Ft. Divino),H
+T2_TRAIN_0415,Llorar Lloviendo,Toby Love,NR
+T2_TRAIN_0416,Vamos Pa’ La Calle,Bad Bunny & Héctor “El Father”,NR
+T2_TRAIN_0417,Voy Pa’llá,Antony Santos,S
+T2_TRAIN_0418,El Último Adiós,Paulina Rubio,NR
+T2_TRAIN_0419,Algo De Mi,Conjunto Primavera,NR
+T2_TRAIN_0420,El katch,El Komander,S
+T2_TRAIN_0421,Cuatro Babys,"Maluma (Ft. Bryant Myers, Juhn, Noriel & Trap Capos)",S
+T2_TRAIN_0422,No Pares,Nico Rengifo,NR
+T2_TRAIN_0423,Quisiera Ser,Alejandro Sanz,NR
+T2_TRAIN_0424,Arrasando,Thalía,S
+T2_TRAIN_0425,El Baile De La Gambeta,Bersuit Vergarabat,NR
+T2_TRAIN_0426,A Labio Dulce,Iskander,S
+T2_TRAIN_0427,Tú Me Quemas,Chino & Nacho (Ft. Gente de Zona & Los Cadillac's),S
+T2_TRAIN_0428,Estoy Peleando Aquí,Los Violadores,V
+T2_TRAIN_0429,Pa’ Todo El Año,José Alfredo Jiménez,NR
+T2_TRAIN_0430,Tanto Que Te Amo Tanto,Cabas,NR
+T2_TRAIN_0431,Claro que sí,Franky Style & C.R.O (Bardero$),S
+T2_TRAIN_0432,Tu No Puedes Conmigo,Willie Colón & Héctor Lavoe,NR
+T2_TRAIN_0433,Serenata Sin Luna,José Alfredo Jiménez,NR
+T2_TRAIN_0434,De Nina A Mujer,Julio Iglesias,NR
+T2_TRAIN_0435,La Pampara,Rochy RD (Ft. Chuky De Lewa),NR
+T2_TRAIN_0436,Fino y Elegante,MECHAYRXMEO & Il Nene De Oro,S
+T2_TRAIN_0437,Pa’ que afinquen,Cheo Feliciano,NR
+T2_TRAIN_0438,Perra,J Balvin & Tokischa,S
+T2_TRAIN_0439,Sola,Anuel AA,S
+T2_TRAIN_0440,Envolver Remix,Anitta & Justin Quiles,S
+T2_TRAIN_0441,Aquí Estás (Tejanas Unidas En Cristo),"Genyva Salas (Ft. Aisha Aparicio, Alyssa Torres, Angelique, Anikka Garza, Christine Phillips, Cortney, Cristina Salinas, Crystal Torres, Demmi García, Di Marie, Krystalina Vallejo, Machy de la, Magali de la Rosa, Margarita Canela, Marisela Hernández, Mónica Saldivar, Patsy Torres, Perla Quintanilla, Rebecca Valadez, Sarah Monique, Savannah Votion, Shelly Lares, Stephanie Bergara & Vee González)",NR
+T2_TRAIN_0442,GAFAS DE SOL,Yandel,S
+T2_TRAIN_0443,No Tengas Miedo de Llorar,Pesado,NR
+T2_TRAIN_0444,El Patrocinador,Junior H & Grupo Firme,H
+T2_TRAIN_0445,Banda De Camión,El Alfa,S
+T2_TRAIN_0446,El Mario de Tu Mujer,Don Miguelo (Ft. Sensato),S
+T2_TRAIN_0447,Qué Nos Pasó?,Reyli,NR
+T2_TRAIN_0448,Diez Mil Maneras,David Bisbal,NR
+T2_TRAIN_0449,Sabor a Mí,Álvaro Carrillo,NR
+T2_TRAIN_0450,Las Pibas Quieren Sexo,Pibes Chorros,S
+T2_TRAIN_0451,Mi Cabeza Está Mal,Chiki Wanted,S
+T2_TRAIN_0452,El Patrón,Banda MS de Sergio Lizárraga,H
+T2_TRAIN_0453,Sin Piedad,Mozart La Para (Ft. Light GM),H
+T2_TRAIN_0454,No Hay Manera,Akwid,V
+T2_TRAIN_0455,Corrido de Nicolaza,El compadre enamorado Jose Luis Chavez,NR
+T2_TRAIN_0456,El Cocodrilo,Banda MS de Sergio Lizárraga,S
+T2_TRAIN_0457,Mujeres de El Hierro,José Antonio Ramos (Ft. Luis Morera Felipe),NR
+T2_TRAIN_0458,Si Estuviésemos Juntos,Bad Bunny,NR
+T2_TRAIN_0459,La Güera Salomé,Lia Crucet,S
+T2_TRAIN_0460,Difamando,Jamby El Favo,V
+T2_TRAIN_0461,Sorpresas,Rubén Blades y Seis del Solar,V
+T2_TRAIN_0462,El Latido,Carlos Vives (Ft. Elenco de El club de los Graves),NR
+T2_TRAIN_0463,Bajo Mundo,Bulin 47 & Breyco En Producidera,S
+T2_TRAIN_0464,Ángel,Yuridia,NR
+T2_TRAIN_0465,Nada Personal,Soda Stereo,S
+T2_TRAIN_0466,De Hoy En Adelante,Milie,S
+T2_TRAIN_0467,La Respuesta,Becky G & Maluma,S
+T2_TRAIN_0468,Vine a Buscarte,Fonseca,NR
+T2_TRAIN_0469,La Difícil,Bad Bunny,S
+T2_TRAIN_0470,Carta De Verano,Joe Veras,V
+T2_TRAIN_0471,LA FUNDA,Myke Towers,S
+T2_TRAIN_0472,Mi Secreto,Carla Morrison,NR
+T2_TRAIN_0473,El Pistolón (Remix),Yaga & Mackie (Ft. Arcángel),NR
+T2_TRAIN_0474,El Baile del Perrito,Wilfrido Vargas,S
+T2_TRAIN_0475,De Los Besos Que Te Di,Christian Nodal,NR
+T2_TRAIN_0476,ESTILAZO,Marshmello (Ft. Tokischa),S
+T2_TRAIN_0477,Media vuelta,José Alfredo Jiménez,V
+T2_TRAIN_0478,Duele Saber,Juan Botello & Marcelino Mendoza,NR
+T2_TRAIN_0479,Caviar,Lenny Tavárez,S
+T2_TRAIN_0480,Travesuras,Nicky Jam,S
+T2_TRAIN_0481,Eres Mi Pasión,Coalo Zamorano,NR
+T2_TRAIN_0482,La burrita,Antony Santos,V
+T2_TRAIN_0483,Venezia (En Vivo),Hombres G & Los Enanitos Verdes,NR
+T2_TRAIN_0484,En Definitiva,Alfredo Olivas,S
+T2_TRAIN_0485,Amanece,Anuel AA & Fino Como El Haze,S
+T2_TRAIN_0486,Pin Pun,Lapiz Conciente,S
+T2_TRAIN_0487,Te Amo,Franco De Vita,NR
+T2_TRAIN_0488,Con Zapatos De Tacón,Bronco,S
+T2_TRAIN_0489,Los chicos no lloran,Miguel Bosé,NR
+T2_TRAIN_0490,Guallando,Fulanito,S
+T2_TRAIN_0491,Nereyda,Raulin Rodriguez,NR
+T2_TRAIN_0492,Chambea,Bad Bunny,S
+T2_TRAIN_0493,Ballantains,Violadores del Verso,S
+T2_TRAIN_0494,La Vacuna,Thalía,NR
+T2_TRAIN_0495,La Vida,Henry Santos,S
+T2_TRAIN_0496,Volando Bajo,Los Blenders,S
+T2_TRAIN_0497,Carismático,Babasónicos,S
+T2_TRAIN_0498,Enciende la mecha (Remix),Bufank,H
+T2_TRAIN_0499,De Vuelta Pa’ La Vuelta,Daddy Yankee & Marc Anthony,H
+T2_TRAIN_0500,La Engañadora,Buena Vista Social Club,H
+T2_TRAIN_0501,Me Enamoré de Ti,Maluma,V
+T2_TRAIN_0502,Me Vuelvo Loco,Abraham Mateo & CNCO,NR
+T2_TRAIN_0503,Hay Cariño,Víctor Manuelle,V
+T2_TRAIN_0504,El Infiernito,Calibre 50,V
+T2_TRAIN_0505,Quizás,"Rich Music, Dalex & Sech (Ft. Feid, Justin Quiles, Lenny Tavárez, Wisin & Zion)",S
+T2_TRAIN_0506,Lloré,Héctor Lavoe,H
+T2_TRAIN_0507,Empecé de Cero,Miky Woodz,NR
+T2_TRAIN_0508,Invéntame,Marco Antonio Solís,NR
+T2_TRAIN_0509,Te Olvidaré,TINI,NR
+T2_TRAIN_0510,La Pareja Ideal,Marisela (Ft. Marco Antonio Solís),NR
+T2_TRAIN_0511,Doble Filo,Romeo Santos,H
+T2_TRAIN_0512,Me Liberé,El Gran Combo de Puerto Rico,NR
+T2_TRAIN_0513,La Romana,Bad Bunny (Ft. El Alfa),S
+T2_TRAIN_0514,Si Te Vuelvo a Ver,La Maquinaria Norteña,NR
+T2_TRAIN_0515,Maliante HP,Benny Benni (Ft. Anuel AA),S
+T2_TRAIN_0516,Amor Tóxico,Alex Gárgolas & Lyanno,S
+T2_TRAIN_0517,Me Está Gustando,Banda Los Recoditos,NR
+T2_TRAIN_0518,Vuelta a la Luna (Remix),YSY A (Ft. Duki & Neo Pistea),H
+T2_TRAIN_0519,Complicado y aturdido,Los Pericos,NR
+T2_TRAIN_0520,Muro de cristal,Tom Boyle,NR
+T2_TRAIN_0521,Kemba Walker,Eladio Carrión & Bad Bunny,V
+T2_TRAIN_0522,Si Te Pudiera Mentir,Marco Antonio Solís,NR
+T2_TRAIN_0523,Así No Te Amará Jamás,Amanda Miguel,V
+T2_TRAIN_0524,Dile,Tony Vega,NR
+T2_TRAIN_0525,La Culebra,Banda Machos,NR
+T2_TRAIN_0526,Cuestión de Tiempo,Justin Quiles (Ft. Jory Boy),H
+T2_TRAIN_0527,Control,Alex Rose & De La Ghetto,S
+T2_TRAIN_0528,Dos Caminos,Kitty110,NR
+T2_TRAIN_0529,La Chona,Los Tucanes De Tijuana,NR
+T2_TRAIN_0530,Atrapados En El Ascensor,Un pinguino en mi ascensor,V
+T2_TRAIN_0531,A Gritos de Esperanza,Alex Ubago,NR
+T2_TRAIN_0532,Me Persigue Tu Sombra,Chalino Sánchez,NR
+T2_TRAIN_0533,Sedúceme,La India,NR
+T2_TRAIN_0534,Quiéreme Mientras Se Pueda,Manuel Turizo,NR
+T2_TRAIN_0535,Me Canse De Ser La Otra,La India,S
+T2_TRAIN_0536,El Farolito,Juan Luis Guerra,NR
+T2_TRAIN_0537,Ponte en mi lugar,Siniestro Total,S
+T2_TRAIN_0538,Me canse de Rogarte,Nydshe Flow,NR
+T2_TRAIN_0539,Alguien Te Va A Hacer Llorar,Intocable,NR
+T2_TRAIN_0540,Con Calma,Daddy Yankee (Ft. Snow),S
+T2_TRAIN_0541,La Rompe Corazones,Daddy Yankee (Ft. Ozuna),S
+T2_TRAIN_0542,Estos Celos,Vicente Fernández,NR
+T2_TRAIN_0543,El Loco Más Loco,Cartel de Santa,S
+T2_TRAIN_0544,Me Gustas Mucho,Código FN,NR
+T2_TRAIN_0545,Los Calientes,Babasónicos,V
+T2_TRAIN_0546,Dinero Limpio / Sucio,Chino El Negro & Darell,H
+T2_TRAIN_0547,Dos Mujeres,Daddy Yankee,H
+T2_TRAIN_0548,"Volver, Volver",Vicente Fernández,NR
+T2_TRAIN_0549,Baila Baila Baila,Ozuna,V
+T2_TRAIN_0550,Decomputao,Kiry Curu & Rochy RD,S
+T2_TRAIN_0551,Me Olvide De Vivir,Julio Iglesias,NR
+T2_TRAIN_0552,La Chapa Que Vibran,La Materialista,S
+T2_TRAIN_0553,Ya Lo Sabía,Miranda​!,NR
+T2_TRAIN_0554,Diosa,Myke Towers,S
+T2_TRAIN_0555,Si me conoces tanto (¿por qué me haces sufrir​?​),Aiko el grupo,NR
+T2_TRAIN_0556,Hasta aquí llegaste,Darío Gómez,V
+T2_TRAIN_0557,A Dónde Vamos A Parar,Marco Antonio Solís,NR
+T2_TRAIN_0558,Eres Mía,Romeo Santos,V
+T2_TRAIN_0559,La Popi,Kiko El Crazy,S
+T2_TRAIN_0560,Amiga Veneno,Zacarías Ferreira,S
+T2_TRAIN_0561,La chiflera,Fefita La Grande,S
+T2_TRAIN_0562,El Amor Que Me Tenía (Versión Acústica),Ricardo Arjona & Pablo Alborán,NR
+T2_TRAIN_0563,Baila Sin Parar / Quiero Beber / Pero Sin Hojas de Laurel / Esa Mujer / El Polvito,Ulises Bueno,V
+T2_TRAIN_0564,Sola Con Mi Soledad,Marisela,NR
+T2_TRAIN_0565,PERO TÚ,KAROL G & Quevedo,NR
+T2_TRAIN_0566,RICKY RICON,"Aqua VS, FloyyMenor & Lewis Somes",S
+T2_TRAIN_0567,El Mensaje,Blessd,S
+T2_TRAIN_0568,La Ocasión,"DJ Luian, Mambo Kingz & De La Ghetto (Ft. Anuel AA, Arcángel & Ozuna)",S
+T2_TRAIN_0569,TUSA (KAROL G & Nicki Minaj) Cover,AleXa,NR
+T2_TRAIN_0570,Te quiero ver hoy,Angel y Khriz,S
+T2_TRAIN_0571,Una Locura,"Ozuna, J Balvin & Chencho Corleone",S
+T2_TRAIN_0572,El Dos Letras,Virlán García,NR
+T2_TRAIN_0573,Ojalá Que Te Mueras,Pesado,H
+T2_TRAIN_0574,Los dueños del pabellon,Damas Gratis,NR
+T2_TRAIN_0575,Con Olor A Hierba,Emmanuel,NR
+T2_TRAIN_0576,Dejame intentar,Ulises Bueno,S
+T2_TRAIN_0577,Chingo a su madre el buey,Los Inquietos del Norte,V
+T2_TRAIN_0578,Muriendo De Envidia,C. Tangana & Eliades Ochoa,S
+T2_TRAIN_0579,Encantadora,Yandel,S
+T2_TRAIN_0580,La Leyenda del Hada y el Mago,Rata Blanca,NR
+T2_TRAIN_0581,Como Antes,Bad Bunny,V
+T2_TRAIN_0582,Santo Niño De Atocha,Molotov,NR
+T2_TRAIN_0583,Callaita,Bad Bunny & Tainy,S
+T2_TRAIN_0584,C****n y Vago,El Fantasma (Ft. Los Dos Carnales),NR
+T2_TRAIN_0585,A Los Cuatro Vientos,Elenco de Violetta (Ft. Rock Bones & TINI),NR
+T2_TRAIN_0586,Caray,Juan Gabriel,V
+T2_TRAIN_0587,0 Sentimientos,Jon Z,S
+T2_TRAIN_0588,Yo No Nací Para Amar,Juan Gabriel,NR
+T2_TRAIN_0589,Rompecabezas,Los Concorde,H
+T2_TRAIN_0590,Ego Herido,Sobrepensante,S
+T2_TRAIN_0591,Pedacito De Cielo,Christian Daniel,V
+T2_TRAIN_0592,Ella se hizo deseo,Tito Rojas,S
+T2_TRAIN_0593,"Libre, Solterito y Sin Nadie",Leo Dan,NR
+T2_TRAIN_0594,Pierde El Control,Aniel,S
+T2_TRAIN_0595,No Te Imaginas,Rels B & Morad,NR
+T2_TRAIN_0596,Guaro (Remix),"Pipe Bueno (Ft. Alzate, Carín León, Darío Gómez, El Charrito Negro, Jessi Uribe, Jhon Alex Castaño, Jhonny Rivera, Juan Pablo Navarrete, Luis Alberto Posada Hernández & Yeison Jimenez)",S
+T2_TRAIN_0597,Fantasías,Rauw Alejandro & Farruko,S
+T2_TRAIN_0598,Hawái (Remix),Maluma & The Weeknd,NR
+T2_TRAIN_0599,Pa Jamaica,El Alfa (Ft. Big O),NR
+T2_TRAIN_0600,Amor Platónico,Los Tucanes De Tijuana,S
+T2_TRAIN_0601,Cerdo,Molotov,V
+T2_TRAIN_0602,Que precio tiene el cielo,David Barrull,NR
+T2_TRAIN_0603,Mal Acostumbrao,Mau y Ricky & Maria Becerra,S
+T2_TRAIN_0604,Entre rejas,Lisandro Meza,H
+T2_TRAIN_0605,Piensa En Mi,Agustín Lara,S
+T2_TRAIN_0606,Tarde O Temprano,Camilo Sesto,NR
+T2_TRAIN_0607,Porque Me Enamore De Ti,Los Tucanes De Tijuana,S
+T2_TRAIN_0608,Coleccionista de Canciones,Camila,NR
+T2_TRAIN_0609,Me Gusta,NATTI NATASHA,NR
+T2_TRAIN_0610,Sin Contrato (Remix),Maluma (Ft. Don Omar & Wisin),S
+T2_TRAIN_0611,Quiero Bailar Contigo,Chayanne,S
+T2_TRAIN_0612,Soltera,Lunay (Ft. Chris Jedi & Gaby Music),S
+T2_TRAIN_0613,Te Quiero A Morir,Zacarías Ferreira,NR
+T2_TRAIN_0614,Culpable Soy Yo,Gera MX,V
+T2_TRAIN_0615,Me Caiste Del Cielo,Cornelio Reyna,NR
+T2_TRAIN_0616,Si Dios me quita la vida,Raphael (ESP),NR
+T2_TRAIN_0617,La Múcura,Texas Tornados,NR
+T2_TRAIN_0618,Plástico,Willie Colón & Rubén Blades,H
+T2_TRAIN_0619,A Chillar a Otra Parte,Pesado,H
+T2_TRAIN_0620,Tu Nuevo Cariñito,Los Rieleros Del Norte,H
+T2_TRAIN_0621,El baleado,Larry hernndez,NR
+T2_TRAIN_0622,Oye Mi Amor,Maná,NR
+T2_TRAIN_0623,Hechizo De Luna,Edgar Joel,NR
+T2_TRAIN_0624,No me digas que no,Xtreme (Band),NR
+T2_TRAIN_0625,China,"Anuel AA, Daddy Yankee & KAROL G (Ft. J Balvin & Ozuna)",S
+T2_TRAIN_0626,Aqui Estoy,Micro TDH,NR
+T2_TRAIN_0627,Porque te fuiste,El Polaco,NR
+T2_TRAIN_0628,Mami Tu Quiere,Andy Boy,S
+T2_TRAIN_0629,Baraja De Oro,Chalino Sánchez,V
+T2_TRAIN_0630,No Me Conoce (Remix),"JHAYCO, J Balvin & Bad Bunny",S
+T2_TRAIN_0631,Cómo Te Voy a Olvidar,Los Ángeles Azules & Vicentico,NR
+T2_TRAIN_0632,Nadie como tú (a dueto con leonel garcia) - en vivo,Presuntos Implicados,NR
+T2_TRAIN_0633,Apiádate de mí,David calzado y su charanga habanera,S
+T2_TRAIN_0634,Parásito,Molotov,V
+T2_TRAIN_0635,Falsas Esperanzas,Luz Gaggi,NR
+T2_TRAIN_0636,Ayer La Vi Por La Calle,Los Rieleros Del Norte,V
+T2_TRAIN_0637,"Buenos Días, Amor",José José,S
+T2_TRAIN_0638,"El Perro, El Gato Y Yo - En Vivo","Guardianes Del Amor (Ft. El Mimoso Luis Antonio López & Gerardo ""Quirri"" Padilla)",NR
+T2_TRAIN_0639,Que Calor,Pibes Chorros,NR
+T2_TRAIN_0640,Tu No Vive Así,Arcángel & Bad Bunny (Ft. DJ Luian & Mambo Kingz),V
+T2_TRAIN_0641,Permítame,Tony Dize (Ft. Yandel),S
+T2_TRAIN_0642,Vuelvo A Caer,Dani MDR & Flowtiago,S
+T2_TRAIN_0643,Valió La Pena,Marc Anthony,NR
+T2_TRAIN_0644,Andrea,Pibes Chorros,S
+T2_TRAIN_0645,Te dejo libre,Zacarías Ferreira,NR
+T2_TRAIN_0646,Señora De Las Cuatro Décadas,Ricardo Arjona,V
+T2_TRAIN_0647,Ojitos Traidores,Javier Solís,NR
+T2_TRAIN_0648,Ya No Hables,Grupo Niche,NR
+T2_TRAIN_0649,Tren al sur,Los Prisioneros,NR
+T2_TRAIN_0650,La Mamá de la Mamá,"El Alfa, CJ & Chael Produciendo (Ft. El Cherry Scom)",S
+T2_TRAIN_0651,Te amaré toda la vida,Javier Solís,NR
+T2_TRAIN_0652,Se Te Olvida,Ramona,NR
+T2_TRAIN_0653,Como Yo Le Doy,Pitbull (Ft. Don Miguelo),S
+T2_TRAIN_0654,Talento De Televisión,Willie Colón & Rubén Blades,S
+T2_TRAIN_0655,Sin Tu Cariño,Rubén Blades,NR
+T2_TRAIN_0656,El Lago,Mägo de Oz,NR
+T2_TRAIN_0657,Carolina,Pibes Chorros,S
+T2_TRAIN_0658,Se Pareció Tanto a Ti,Grupo Niche,S
+T2_TRAIN_0659,Ponte Pa’ Mí,"Rauw Alejandro, Myke Towers & Sky Rompiendo",S
+T2_TRAIN_0660,Una Tarde Fue (2009 Mix),Los Temerarios,NR
+T2_TRAIN_0661,Mi Niña Bonita (Urban Remix),Chino & Nacho (Ft. Angel y Khriz),NR
+T2_TRAIN_0662,Solo Pienso en Ti,Paulo Londra (Ft. De La Ghetto & Justin Quiles),S
+T2_TRAIN_0663,De un rancho a otro,Vicente Fernández,NR
+T2_TRAIN_0664,La Atorranta,Verónica Ávila,V
+T2_TRAIN_0665,Cicatrices,Natos y Waor,S
+T2_TRAIN_0666,Mi Cubana,Eladio Carrión,S
+T2_TRAIN_0667,La Media Vuelta,Luis Miguel,S
+T2_TRAIN_0668,Sigue tu camino,Oscar D'León,V
+T2_TRAIN_0669,Házmelo Otra Vez,Bea Pelea,S
+T2_TRAIN_0670,Es la Medianoche,Luis Alberto Spinetta,NR
+T2_TRAIN_0671,Noche de Entierro (Remix),"Luny Tunes (Ft. Arcángel, Daddy Yankee, De La Ghetto, Héctor “El Father”, Ivy Queen, Randy & Tonny Tun Tun)",S
+T2_TRAIN_0672,Mujer de Piedra,Gerardo Ortiz,NR
+T2_TRAIN_0673,La Incondicional,Luis Miguel,NR
+T2_TRAIN_0674,Los Hombres No Lloran,Cazzu,NR
+T2_TRAIN_0675,Toloache Pa’ Mi Negra,Panteón Rococó,H
+T2_TRAIN_0676,Costear,JHAYCO & Almighty,S
+T2_TRAIN_0677,No Me Doy por Vencido,Luis Fonsi,NR
+T2_TRAIN_0678,Bella Sin Alma,Riccardo Cocciante,S
+T2_TRAIN_0679,El Dia Que Me Quieras,Carlos Gardel,V
+T2_TRAIN_0680,Me Prefieres A Mí (Remix),Arcángel (Ft. Don Omar),S
+T2_TRAIN_0681,El Amar y El Querer,José José,V
+T2_TRAIN_0682,Pa’ Romper La Discoteca,Farruko (Ft. Daddy Yankee & Yomo),S
+T2_TRAIN_0683,Shaky Shaky,Daddy Yankee,S
+T2_TRAIN_0684,El Caballo Blanco,José Alfredo Jiménez,NR
+T2_TRAIN_0685,Pobre Diabla,Don Omar,V
+T2_TRAIN_0686,Desesperado,José José,H
+T2_TRAIN_0687,Arrepentido,Sôber,NR
+T2_TRAIN_0688,ELLA SABE,Ramma,NR
+T2_TRAIN_0689,Sin tu amor,Alacranes Musical,NR
+T2_TRAIN_0690,Te Voy a Hacer Feliz,Mariano Civico,NR
+T2_TRAIN_0691,Salgo Sin Ti,"Robert Morr, David Marley & Yasiris",NR
+T2_TRAIN_0692,No Digas No,Niña Pastori,NR
+T2_TRAIN_0693,El son del dolor,Cuca,S
+T2_TRAIN_0694,Con Silenciador,El Alfa (Ft. Anuel AA),S
+T2_TRAIN_0695,Corazones Rojos,Los Prisioneros,V
+T2_TRAIN_0696,Ella No Es Tuya,Rochy RD,NR
+T2_TRAIN_0697,Alta Gama,Equipo Crema,H
+T2_TRAIN_0698,La Raja De Tu Falda,Estopa,S
+T2_TRAIN_0699,No Tengas Miedo,Rayden,NR
+T2_TRAIN_0700,Cenizas,Nicolás Jaar,NR
+T2_TRAIN_0701,La Trayectoria (Mas Flow Family),"Luny Tunes (Ft. Don Omar, Héctor “El Father”, Joan & O'Neill & Wibal Y Alex)",V
+T2_TRAIN_0702,La Chica Sexy,Sandy & Papo Mc,S
+T2_TRAIN_0703,Intentalo,Maluma,S
+T2_TRAIN_0704,Mundo de Piedra,Canserbero,V
+T2_TRAIN_0705,Cuándo,Ricardo Arjona,H
+T2_TRAIN_0706,La Papa,Valentín Elizalde,S
+T2_TRAIN_0707,Nos Faltó Tiempo,Ricardo Darín,NR
+T2_TRAIN_0708,El moro de cumpas,Vicente Fernández,NR
+T2_TRAIN_0709,La raza contenta,El Tigrillo Palma,S
+T2_TRAIN_0710,Por fin,Pablo Alborán,NR
+T2_TRAIN_0711,La Viuda Negra,La Zista (Ft. Ele A El Dominio),V
+T2_TRAIN_0712,Se Reveló,Luigi 21 Plus,H
+T2_TRAIN_0713,El Gavilán Pollero,Alicia Villarreal,NR
+T2_TRAIN_0714,La Última Vez,Anuel AA & Bad Bunny,S
+T2_TRAIN_0715,Si El Norte Fuera El Sur,Ricardo Arjona,V
+T2_TRAIN_0716,Queriendo y no,Juan Gabriel,NR
+T2_TRAIN_0717,Yo no sé (Remix),El Che (Ft. Ele A El Dominio & Lito Kirino),S
+T2_TRAIN_0718,Matar o Morir,Aczino,NR
+T2_TRAIN_0719,Que Vuelva,Ele A El Dominio,S
+T2_TRAIN_0720,Eres Mi Droga,Intocable,NR
+T2_TRAIN_0721,Dile a Él,Rauw Alejandro,S
+T2_TRAIN_0722,El Desterrado,Jorge Negrete,NR
+T2_TRAIN_0723,La Bebecita*,Casper Mágico & Anuel AA,S
+T2_TRAIN_0724,Pétasse,Sofos,S
+T2_TRAIN_0725,Sabiendo que el final,TheDaMar,NR
+T2_TRAIN_0726,Perra Soledad,Tierra Cali,H
+T2_TRAIN_0727,Dos hombres Y Un Destino,Bustamante & Alex,S
+T2_TRAIN_0728,Bajo La Mesa,Morat & Sebastián Yatra,NR
+T2_TRAIN_0729,Arriba Las Manos,Pekeño 77 & C.R.O (Bardero$),S
+T2_TRAIN_0730,La Suegra,Banda Machos,H
+T2_TRAIN_0731,La Barca,Luis Miguel,NR
+T2_TRAIN_0732,La Parcela,Antony Santos,S
+T2_TRAIN_0733,Antihéroe,Tino el Pingüino,V
+T2_TRAIN_0734,WOW BB,"NATTI NATASHA, El Alfa & Chimbala",S
+T2_TRAIN_0735,El Malagradecido,Los Nandez,V
+T2_TRAIN_0736,Se Terminó,LIT killah (Ft. Kodigo),NR
+T2_TRAIN_0737,Este Terco Corazón,Emmanuel,V
+T2_TRAIN_0738,La Mentira,Brytiago & Rafa Pabön,S
+T2_TRAIN_0739,La Cita,Galy Galiano,NR
+T2_TRAIN_0740,Fabricando Fantasias,Tito Nieves,NR
+T2_TRAIN_0741,Clave Privada,El Puma De Sinaloa,S
+T2_TRAIN_0742,SI TÚ SUPIERAS,Feid,S
+T2_TRAIN_0743,Caprichos De Mujer,Los Acosta,NR
+T2_TRAIN_0744,Te he de olvidar,Los Tigres Del Norte,NR
+T2_TRAIN_0745,El Padre Antonio y El Monaguillo Andrés,Rubén Blades y Seis del Solar,NR
+T2_TRAIN_0746,Me Fallaste,Eddie Santiago,S
+T2_TRAIN_0747,De Vez En Mes,Ricardo Arjona,S
+T2_TRAIN_0748,Prefiero,Antílopez,H
+T2_TRAIN_0749,Marinero,Maluma,NR
+T2_TRAIN_0750,Mentiras,Daniela Romo,NR
+T2_TRAIN_0751,Loco Contigo,DJ Snake & J Balvin (Ft. Tyga),S
+T2_TRAIN_0752,Sentido Común,Molotov,S
+T2_TRAIN_0753,Cuestión de suerte,Natalia Lacunza,NR
+T2_TRAIN_0754,Amor limosnero,Joan Sebastian,NR
+T2_TRAIN_0755,Cachichen,Davus & Reillo's Rake,NR
+T2_TRAIN_0756,Nota de Pasión,Don Miguelo,NR
+T2_TRAIN_0757,La Modelo,Ozuna (Ft. Cardi B),S
+T2_TRAIN_0758,Plakito (Remix),Yandel (Ft. Farruko & Gadiel),S
+T2_TRAIN_0759,​la glock,Corina Smith,V
+T2_TRAIN_0760,Mujer Infiel,Raulin Rodriguez,H
+T2_TRAIN_0761,La Torre De Babel,Los Tres,NR
+T2_TRAIN_0762,Ella es una G,C.R.O (Bardero$) (Ft. Duki),S
+T2_TRAIN_0763,Ven y Hazlo Tú,"Nicky Jam, J Balvin & Anuel AA (Ft. Arcángel)",V
+T2_TRAIN_0764,Safari,"J Balvin (Ft. BIA, Pharrell Williams & Sky Rompiendo)",S
+T2_TRAIN_0765,Solos,Tony Dize (Ft. Plan B),S
+T2_TRAIN_0766,Suturno,Babasónicos,S
+T2_TRAIN_0767,Chulin Culin Chunfly,Voltio (Ft. Calle 13),S
+T2_TRAIN_0768,¿Dónde jugarán las niñas?,Renee Goust,NR
+T2_TRAIN_0769,Y No Hago Más Na’,El Gran Combo de Puerto Rico,NR
+T2_TRAIN_0770,Pa’ Que La Pases Bien,Arcángel,S
+T2_TRAIN_0771,Me niegas tanto amor,Pedro conga,NR
+T2_TRAIN_0772,Uva Bombom,Rochy RD (Ft. Chuky De Lewa),S
+T2_TRAIN_0773,Ya Lo Pasado Pasado,Juan Gabriel,NR
+T2_TRAIN_0774,Creiste,Antony Santos,NR
+T2_TRAIN_0775,La Deuda,"Tali, Messiah & Lápiz Conciente",NR
+T2_TRAIN_0776,Ni Una Lágrima Más,Noelia,H
+T2_TRAIN_0777,Te Cansaste,Ele A El Dominio,S
+T2_TRAIN_0778,Píntame,Elvis Crespo,NR
+T2_TRAIN_0779,Machika,"J Balvin, Jeon & Anitta",S
+T2_TRAIN_0780,Me Mata,"Bad Bunny, Mambo Kingz & DJ Luian (Ft. Almighty, Arcángel, Baby Rasta, Bryant Myers, Brytiago & Noriel)",S
+T2_TRAIN_0781,Lluvia,Eddie Santiago,S
+T2_TRAIN_0782,Tan Enamorados,CNCO,NR
+T2_TRAIN_0783,CARAMELITO,Yung Beef,S
+T2_TRAIN_0784,Tú Eres Ajena,Eddy Herrera,NR
+T2_TRAIN_0785,Donde Brilla el Sol,Amanda Miguel,NR
+T2_TRAIN_0786,Devuélveme la Vida,Costa,H
+T2_TRAIN_0787,No Quiero Perderme Ni Un Segundo Más De Ti,Hugo Cobo,NR
+T2_TRAIN_0788,El Final,"Juliito, Hozwal & Freestyle Mania",V
+T2_TRAIN_0789,Te sigo soñando,DePedro,NR
+T2_TRAIN_0790,El Pecado,Amanda Miguel,S
+T2_TRAIN_0791,Gata Fiera,Trebol Clan (Ft. Joan Ortíz),S
+T2_TRAIN_0792,Con El Alma En La Mano,Los Yonic's,NR
+T2_TRAIN_0793,Te Propongo,"Zizzy, Young Cister & Adrian Be",S
+T2_TRAIN_0794,PORQUE YA NO ME QUIERES,La Mafia del Amor,NR
+T2_TRAIN_0795,Si Esa Mujer Me Dice Que Si,Frankie Ruiz,NR
+T2_TRAIN_0796,El bar de la esquina,Albert Pla,S
+T2_TRAIN_0797,La Dosis Perfecta,Panteón Rococó,S
+T2_TRAIN_0798,Egoísta,Belinda (Ft. Pitbull),NR
+T2_TRAIN_0799,pesadilla antes de una vida,Mda,H
+T2_TRAIN_0800,Prefiero ser su amante,María José,S
+T2_TRAIN_0801,La Banda del Carro Rojo,Los Tigres Del Norte,NR
+T2_TRAIN_0802,Luz Apagá,"Ozuna (Ft. Lunay, Lyanno & Rauw Alejandro)",S
+T2_TRAIN_0803,Déjame Volar,Alemán (Ft. Simpson Ahuevo),V
+T2_TRAIN_0804,¿Por Qué No Puedo Ser del Jet-Set?,Soda Stereo,NR
+T2_TRAIN_0805,Dame Tu Aire,Alex Ubago,NR
+T2_TRAIN_0806,Te Me Vas,Prince Royce,NR
+T2_TRAIN_0807,Manos Arriba,La Vida Bohème,V
+T2_TRAIN_0808,Gitana,"Leon Leiden (Ft. Charly Romero, Jeis, Pao Alvarado, Salma (MEX) & Yung Dupe)",S
+T2_TRAIN_0809,Borró Cassette,Maluma,S
+T2_TRAIN_0810,Ni un Beso,Delaporte,NR
+T2_TRAIN_0811,Vivir Sin Aire,Maná,NR
+T2_TRAIN_0812,He Venido A Pedirte Perdón,Juan Gabriel,NR
+T2_TRAIN_0813,El Pompo,Krisspy,NR
+T2_TRAIN_0814,El Tóxico,Grupo Firme (Ft. Carín León),H
+T2_TRAIN_0815,LLAMÉ PA’ VERTE,Lenny Tavárez (Ft. Wisin),S
+T2_TRAIN_0816,She Don’t Give a Fo,Duki (Ft. KHEA),S
+T2_TRAIN_0817,El Papa De Los Pollitos,Los Tucanes De Tijuana,NR
+T2_TRAIN_0818,Mujer Amante,Rata Blanca,S
+T2_TRAIN_0819,El Boss,Gabito Ballesteros & Natanael Cano,S
+T2_TRAIN_0820,Si Ya No Te Vuelvo A Ver,Los Bukis,NR
+T2_TRAIN_0821,Lloraré por Ti,Cyclo (Ft. Lucy paradise),NR
+T2_TRAIN_0822,El Molde,Joe Veras,NR
+T2_TRAIN_0823,El Taxi (Gregor Salto Remix),"Pitbull (Ft. Mark B, Musicólogo The Libro, Nfasis & Sensato)",S
+T2_TRAIN_0824,Me Quedo,Romeo Santos (Ft. Zacarías Ferreira),NR
+T2_TRAIN_0825,Voy a Amarte,"116 (Ft. Byron Juane, Cardec Drums & Iván Rodríguez (PR))",NR
+T2_TRAIN_0826,Quiero volver a empezar,Yuri (MEX),NR
+T2_TRAIN_0827,Si Yo Fuera,Ricardo Arjona,S
+T2_TRAIN_0828,El Amante,Nicky Jam,S
+T2_TRAIN_0829,ALTA DATA,"L-Gante, DT.Bilardo & Eric Santana",S
+T2_TRAIN_0830,Obsesionado,Farruko,S
+T2_TRAIN_0831,La Noche Que Te Fuiste,Jesse & Joy,NR
+T2_TRAIN_0832,Insoportablemente Bella,Emmanuel,NR
+T2_TRAIN_0833,Subele a la Greibol,Cartel de Santa,S
+T2_TRAIN_0834,Cal y arena,Rozalén,V
+T2_TRAIN_0835,Hoy Quiero Soñar,Cristian Castro,NR
+T2_TRAIN_0836,Don Palabras,Maldita Vecindad y Los Hijos del Quinto Patio,NR
+T2_TRAIN_0837,Me Dejé Llevar,Christian Nodal,S
+T2_TRAIN_0838,Lágrimas que derramar (De ”La novia cadáver”),"CT Media (ESP), Maydawa & Watamaloune",H
+T2_TRAIN_0839,Voy Pa’ Encima,Frankie Ruiz,V
+T2_TRAIN_0840,Corazón en bancarrota,Dani flaco,S
+T2_TRAIN_0841,Huele A Peligro,La Arrolladora Banda El Limón,NR
+T2_TRAIN_0842,En Un Sólo Dia,Morat,NR
+T2_TRAIN_0843,El Aislamiento,Jaguares,NR
+T2_TRAIN_0844,El hijo del pueblo,Vicente Fernández,NR
+T2_TRAIN_0845,No He Podido Verte,Emmanuel,NR
+T2_TRAIN_0846,Problemas,Paris Boy,S
+T2_TRAIN_0847,Candy,Plan B,S
+T2_TRAIN_0848,Voy a pasármelo bien,Hombres G,S
+T2_TRAIN_0849,Vamos pa la conga,Ricardo Montaner,S
+T2_TRAIN_0850,Esa Mujer,Luis Vargas,V
+T2_TRAIN_0851,Regalo Caro,Los Cachorros de Juan Villarreal,NR
+T2_TRAIN_0852,Ansias,Ledesma (Ft. Rude Girl (La Atrevida)),S
+T2_TRAIN_0853,Quisiera Ser Alcohol,Jaguares,S
+T2_TRAIN_0854,Me Vale Madre,Proximo Nivel & Los K-Bros,S
+T2_TRAIN_0855,El Ardido,Larry Hernandez,H
+T2_TRAIN_0856,El Maíz,El Mayor Clásico,S
+T2_TRAIN_0857,Secuestro De Amor,Los Tucanes De Tijuana,V
+T2_TRAIN_0858,Fuego Y Pasión,LR Ley Del Rap & Tivi Gunz,S
+T2_TRAIN_0859,Volver A Amar,Cristian Castro,NR
+T2_TRAIN_0860,Piel Morena,Thalía,NR
+T2_TRAIN_0861,Canción de Otoño,José Luis Perales,NR
+T2_TRAIN_0862,El Reloj Cucú,Maná,NR
+T2_TRAIN_0863,El Boom,Chimbala,S
+T2_TRAIN_0864,Tú Tienes,Wisin & Yandel,S
+T2_TRAIN_0865,El Flechazo y la Secuela,Ricardo Arjona,NR
+T2_TRAIN_0866,Es Temprano (Para Llorar),Caro Valenzuela,NR
+T2_TRAIN_0867,La Pastilla,La Vela Puerca & Arquero,NR
+T2_TRAIN_0868,Adicto A Ti,Jamby El Favo,S
+T2_TRAIN_0869,Prisioneros de la piel,La Ley,S
+T2_TRAIN_0870,Alerta Roja,"Daddy Yankee (Ft. Alexio, Arcángel, Brytiago, Cosculluela, De La Ghetto, El Micha, Farruko, Gente de Zona, J Balvin, Kafu Banton, Mozart La Para, Nicky Jam, Plan B, Secreto El Famoso Biberón & Zion)",S
+T2_TRAIN_0871,No Se Va (En Vivo),Grupo Frontera,NR
+T2_TRAIN_0872,Vacaciones,Wisin,S
+T2_TRAIN_0873,Tú Me Dijiste Adiós,Los Sacrificio (Ft. Carlo F. Golda & Miquel C. Bosch),NR
+T2_TRAIN_0874,Déjame Entrar,Maná,S
+T2_TRAIN_0875,Dile,Sergio Vargas,S
+T2_TRAIN_0876,Ginza,J Balvin,S
+T2_TRAIN_0877,Causas Pendientes,Reality & KG970,NR
+T2_TRAIN_0878,Cancioncitas de Amor,Romeo Santos,NR
+T2_TRAIN_0879,Tu Cariño Es Mi Castigo (Bulerías),Camarón De La Isla (Ft. Paco de Lucía),NR
+T2_TRAIN_0880,My Blood (Cumbia Remix),"Los Perros Chatos, Polimá Westcoast & Pablo Chill-E",V
+T2_TRAIN_0881,Amor De Mujer,Paulina Rubio,V
+T2_TRAIN_0882,Terrenal,Julión Álvarez y su Norteño Banda,NR
+T2_TRAIN_0883,El Día Que Me Quieras,Luis Miguel,NR
+T2_TRAIN_0884,La 40,"Lil Troca, Lucho SSJ & Franux BB (Ft. MC Buzzz)",S
+T2_TRAIN_0885,La banda borracha,Valentín Elizalde,NR
+T2_TRAIN_0886,Curo Tus Labios,Pablo Alborán,NR
+T2_TRAIN_0887,Mi Marylin Particular,Nacho Vegas,V
+T2_TRAIN_0888,Gira que gira,Ters (ESP),NR
+T2_TRAIN_0889,Enséñame,RBD,NR
+T2_TRAIN_0890,"Lo Que Pasó, Pasó",Daddy Yankee,V
+T2_TRAIN_0891,NO ESTOY BUSCANDO PAZ,Yung MA,NR
+T2_TRAIN_0892,Yo Quisiera,Reik,NR
+T2_TRAIN_0893,TU ÁNGEL GUARDIÁN,HELIOS MAR,NR
+T2_TRAIN_0894,Ya No Me Quieres Querer,Antony Santos,NR
+T2_TRAIN_0895,Hechizo,Myke Towers,S
+T2_TRAIN_0896,Me Cai De La Nube,Cornelio Reyna,H
+T2_TRAIN_0897,A Mi Que Me Quedo,Los Invasores de Nuevo Leon,NR
+T2_TRAIN_0898,Te Quedas O Te Vas,Alejandro Fernández,NR
+T2_TRAIN_0899,Viajo Sin Ver (Remix),"Jon Z (Ft. Almighty, De La Ghetto, El Alfa, Ele A El Dominio, Jeycyn, Juanka, Lyan, Miky Woodz, Noriel & Pusho)",S
+T2_TRAIN_0900,Necesito Oir Tu Voz,Los Rehenes,NR
+T2_TRAIN_0901,Torero,Chayanne,NR
+T2_TRAIN_0902,Entre la Guerra y el Amor,Delux (MEX),NR
+T2_TRAIN_0903,Mi Enemigo El Amor,Pancho Barraza,NR
+T2_TRAIN_0904,Cien Años,Pedro Infante,NR
+T2_TRAIN_0905,Acábame de Matar,Eli Lein,NR
+T2_TRAIN_0906,2 Mujeres en My Cama,Cartel de Santa,S
+T2_TRAIN_0907,Sali Porque Sali,Cheo Feliciano,NR
+T2_TRAIN_0908,Un Tonto Taxista Enamorado,Joel Gonzales,NR
+T2_TRAIN_0909,La Ingrata,Café Tacvba,H
+T2_TRAIN_0910,Soy Peor,Bad Bunny,S
+T2_TRAIN_0911,Noche de Travesura,Héctor “El Father” (Ft. Divino),S
+T2_TRAIN_0912,Tengo Miedo,Ramón Ayala y Sus Bravos Del Norte,NR
+T2_TRAIN_0913,Ya Te Olvidé,Kiko Rodriguez,NR
+T2_TRAIN_0914,Brujeria,El Gran Combo de Puerto Rico,S
+T2_TRAIN_0915,Nomas Por Tu Culpa,Los Huracanes Del Norte,H
+T2_TRAIN_0916,Juguete,"Yan Block, NTG & SAIKO",S
+T2_TRAIN_0917,Mayores,Becky G & Bad Bunny,S
+T2_TRAIN_0918,Suave y Lento,Amarion,S
+T2_TRAIN_0919,Amárrate a una escoba y vuela lejos,Caifanes,NR
+T2_TRAIN_0920,Me muero por ti,Luis Miguel,NR
+T2_TRAIN_0921,No Puedo Olvidar Tu Voz,Julión Álvarez y su Norteño Banda,NR
+T2_TRAIN_0922,Amor de Tres,Bryant Myers (Ft. Hozwal),S
+T2_TRAIN_0923,7 Pollo,Bulin 47,S
+T2_TRAIN_0924,Kobe En LA,JHAYCO,V
+T2_TRAIN_0925,Salsa Con Coco,Pochi Y Su Cocoband,S
+T2_TRAIN_0926,Aléjate de Mí,Camila,NR
+T2_TRAIN_0927,Lo Siento Mi Amor,Lupita D'Alessio,S
+T2_TRAIN_0928,La Muerte De Un Gallero,Vicente Fernández,NR
+T2_TRAIN_0929,Mi enfermedad,Andrés Calamaro,NR
+T2_TRAIN_0930,Como Han Pasado Los Anos,Julio Iglesias,NR
+T2_TRAIN_0931,Ella Es,Tony Vega,S
+T2_TRAIN_0932,Un Hombre Busca Una Mujer,Luis Miguel,H
+T2_TRAIN_0933,Tócate Tu Misma (Remix),"Alexis y Fido (Ft. Anonimus, Bad Bunny, Brytiago, Jon Z & Lary Over)",S
+T2_TRAIN_0934,Sexo Virtual,Rauw Alejandro,S
+T2_TRAIN_0935,Lento,Nfasis,S
+T2_TRAIN_0936,La Muralla Verde,Los Enanitos Verdes,NR
+T2_TRAIN_0937,Mujer De Todos Mujer De Nadie,Calle 24,S
+T2_TRAIN_0938,Aquí Sigo,3AM,H
+T2_TRAIN_0939,Ke Me Pasará N La Boka,Frank T,NR
+T2_TRAIN_0940,No Queda Nada,Arca,NR
+T2_TRAIN_0941,No Le Hago Falta,Carolina Ross,NR
+T2_TRAIN_0942,Chivirika,El Villanord & Yailin la Mas Viral,S
+T2_TRAIN_0943,Humo en la Trampa 2,"Alemán (Ft. Dee, Fntxy, Muelas De Gallo & Yoga Fire)",S
+T2_TRAIN_0944,El Rey Del Rodeo Medley: Ella Es Así / Suficiente Amor / Eclipse / ¿Cómo Le Haré?,La Casetera (Ft. Destiny Navaira & Rigo Navaira),NR
+T2_TRAIN_0945,No Digas Mi Nombre,​calle x vida & Foudeqush,NR
+T2_TRAIN_0946,Punto muerto,Fernando Cabrera,NR
+T2_TRAIN_0947,La Neta,Lenny Tavárez,V
+T2_TRAIN_0948,Déjate Llevar,Alex Rose (Ft. Lyanno),S
+T2_TRAIN_0949,Mi lado Oscuro,Pozo Musikandante (Ft. Hijo Pródigo aka J-Pro),S
+T2_TRAIN_0950,Chuky Bobo (Remix),"Yomel El Meloso, Distin Prada & Royel 27 (Ft. Pablo Piddy)",S
+T2_TRAIN_0951,Arriba,Natanael Cano,S
+T2_TRAIN_0952,El malo,Aventura,NR
+T2_TRAIN_0953,La Muñeca,Thomaz (VEN),S
+T2_TRAIN_0954,Chaca que machaca,Fuyen,NR
+T2_TRAIN_0955,Ritmo en el Corazón,Celia Cruz & Ray Barretto,NR
+T2_TRAIN_0956,Círculo Vicioso,Granuja,V
+T2_TRAIN_0957,El Golpe Traidor,Antonio Aguilar,NR
+T2_TRAIN_0958,Bella Traición,Belinda,NR
+T2_TRAIN_0959,SUBIDÓN,"YSY A, Koki LS & SPONSOR DIOS",S
+T2_TRAIN_0960,Una Vaina Loca,"Fuego, Manuel Turizo & Duki",S
+T2_TRAIN_0961,Soñadora,Verónica castro,NR
+T2_TRAIN_0962,NADIE SABE,Bad Bunny,NR
+T2_TRAIN_0963,Morado,J Balvin,S
+T2_TRAIN_0964,Arboles De La Barranca,Carlos Y José,NR
+T2_TRAIN_0965,En Los Puritos Huesos,La Arrolladora Banda El Limón De René Camacho,NR
+T2_TRAIN_0966,Mi Primer Amor,Pesado,NR
+T2_TRAIN_0967,"Hijo de puta policía , te kiero pikar",Yung MA,V
+T2_TRAIN_0968,Te Compro,Duelo,S
+T2_TRAIN_0969,No me arrepiento de nada,Estela Nuñez,NR
+T2_TRAIN_0970,Si Volviera a Nacer,Esteman (Ft. Lila Downs),NR
+T2_TRAIN_0971,Para Ser un Rapper,Sho-Hai,S
+T2_TRAIN_0972,Perdóname,FMK,NR
+T2_TRAIN_0973,Mi destino fue quererte,El cejas y su banda fuego,NR
+T2_TRAIN_0974,Esa Mujer,Tony Vega,NR
+T2_TRAIN_0975,Vida Mafiosa,Los Dareyes De La Sierra,NR
+T2_TRAIN_0976,La Suavecita,Valentín Elizalde,NR
+T2_TRAIN_0977,Qué Bonita es mi Tierra,Carlos Rivera,NR
+T2_TRAIN_0978,Ni Dada La Quiero,Los Invasores de Nuevo Leon,H
+T2_TRAIN_0979,Tanto Que Me Gusta,El Mayor Clásico & NATTI NATASHA,S
+T2_TRAIN_0980,La Gata Montesa,Ismael Rivera,V
+T2_TRAIN_0981,No Puedo Olvidarte,Maluma (Ft. Nicky Jam),V
+T2_TRAIN_0982,La Tanga,Oro Sólido,S
+T2_TRAIN_0983,El Lujo de Tenerte,Régulo Caro,NR
+T2_TRAIN_0984,Amor Brutal,Los primos mx,S
+T2_TRAIN_0985,VACAXIONES,Feid,S
+T2_TRAIN_0986,Si Tú Me Dices Ven,Luis Figueroa,NR
+T2_TRAIN_0987,La Baraja,Banda Los Recoditos,NR
+T2_TRAIN_0988,Fiesta en la galaxia,Lil Moss (Ft. Recycled J),NR
+T2_TRAIN_0989,En Contra,Dulce María,NR
+T2_TRAIN_0990,La Araña,Grupo Alfa 7,S
+T2_TRAIN_0991,La Mataré,Loquillo y Los Trogloditas,V
+T2_TRAIN_0992,Voy A Tener Que Olvidarla,Intocable,NR
+T2_TRAIN_0993,La Vuelta Al Mundo,Calle 13,NR
+T2_TRAIN_0994,Estamos Clear,Miky Woodz (Ft. Bad Bunny),S
+T2_TRAIN_0995,Suave (Remix),"El Alfa (Ft. Bryant Myers, Chencho Corleone, Jon Z, Miky Woodz & Noriel)",S
+T2_TRAIN_0996,Adelante corazón [En vivo],María José (Ft. Yuri (MEX)),NR
+T2_TRAIN_0997,El baile del sua sua,Kinito Mendez,S
+T2_TRAIN_0998,Nadie Como Tú,Wisin & Yandel (Ft. Don Omar),S
+T2_TRAIN_0999,Amor de Madre,Aventura,V
+T2_TRAIN_1000,La Farsante,Juan Gabriel,H
+T2_TRAIN_1001,Nana,FERNANDOCOSTA & Natos y Waor,V
+T2_TRAIN_1002,Bésame,Ricardo Montaner,NR
+T2_TRAIN_1003,Curazao,El Alfa & Farruko,S
+T2_TRAIN_1004,La Cartera,Farruko & Bad Bunny,V
+T2_TRAIN_1005,Venezia,Hombres G,NR
+T2_TRAIN_1006,Cada Vez Me Gusta Más,La Energía Norteña,NR
+T2_TRAIN_1007,La cumbia de los trapos,Yerba Brava,NR
+T2_TRAIN_1008,El Amor,Ricardo Arjona,NR
+T2_TRAIN_1009,Secreto,KAROL G & Anuel AA,S
+T2_TRAIN_1010,Brindemos,Anuel AA (Ft. Ozuna),S
+T2_TRAIN_1011,Levantando Polvadera,Voz de Mando,V
+T2_TRAIN_1012,Finge Que Me Amas,Tony Dize,S
+T2_TRAIN_1013,Con El Humo,Atomic Otro Way,S
+T2_TRAIN_1014,El Teke Teke,Crazy Design (Ft. Carlitos Wey),V
+T2_TRAIN_1015,Juan Martha,La Original Banda El Limón De Salvador Lizárraga,NR
+T2_TRAIN_1016,Los Malaventurados No Lloran,PXNDX,NR
+T2_TRAIN_1017,La Bolsa,Bersuit Vergarabat,NR
+T2_TRAIN_1018,Cachamba,Kinito Mendez,NR
+T2_TRAIN_1019,Ella Quiere Beber (Remix),Anuel AA & Romeo Santos,S
+T2_TRAIN_1020,Nadie Quiere Que Bailes Con Nadie,Manuel Carrasco,H
+T2_TRAIN_1021,Chica Virtual,Arcángel,S
+T2_TRAIN_1022,Que Me De Más Que Amor,Guayo Man,S
+T2_TRAIN_1023,Qué Bello,La Sonora Dinamita,NR
+T2_TRAIN_1024,La Planta,Caos,S
+T2_TRAIN_1025,Tú Eres Ajena,Frank Reyes,NR
+T2_TRAIN_1026,Échame la Culpa,Luis Fonsi & Demi Lovato,NR
+T2_TRAIN_1027,Voy a apagar la luz,Armando Manzanero,S
+T2_TRAIN_1028,Bésame,Camila,NR
+T2_TRAIN_1029,Ave María,David Bisbal,NR
+T2_TRAIN_1030,Mujeres Calientes,3-2 Get Funky,S
+T2_TRAIN_1031,La Pipa De La Paz,Aterciopelados,NR
+T2_TRAIN_1032,Amor a Medias,Ha-Ash,NR
+T2_TRAIN_1033,Si te vas,LIT killah,NR
+T2_TRAIN_1034,Baraja De Oro,Ramón Ayala y Sus Bravos Del Norte,V
+T2_TRAIN_1035,Dime Si Te Vas Con El,Nigga (Ft. Mr Saik),V
+T2_TRAIN_1036,Nuestro Amor,RBD,NR
+T2_TRAIN_1037,"Te Quiero Tanto, Tanto",OV7,NR
+T2_TRAIN_1038,Agua,Jarabe de Palo,NR
+T2_TRAIN_1039,En el Amor No Se Manda,Carlos Rivera (Ft. Yuridia),NR
+T2_TRAIN_1040,Amor de Colegio,"Luxian (Ft. Andresito Otro Corte, Bastian La Amenaza, Boss Supreme Lirycs, Chuchu Retro, El Bai, Gabo El Chamaquito & Uzbell)",H
+T2_TRAIN_1041,A veces Lloro,Los Del Limit,NR
+T2_TRAIN_1042,Dale Fuego,Cartel de Santa & Big Man,S
+T2_TRAIN_1043,Lo Que Tu Quieras,Javiielo,S
+T2_TRAIN_1044,Chapiadora,Cazzu,S
+T2_TRAIN_1045,La Mujer Que No Soñé,Ricardo Arjona,NR
+T2_TRAIN_1046,El Perdedor,Aventura,NR
+T2_TRAIN_1047,Cara Bonita,"Dani MDR, Barroso",H
+T2_TRAIN_1048,Dispuesto,Maluma (Ft. Ozuna),S
+T2_TRAIN_1049,Si Te Vas Conmigo,Lunay,NR
+T2_TRAIN_1050,LA GRASA,"Blunted Vato (Ft. Black O, G BENZ & Tymo Benz)",S
+T2_TRAIN_1051,Nunca te doblarás,Jaguares,NR
+T2_TRAIN_1052,Duele (crazy),Kalimba,NR
+T2_TRAIN_1053,Vuelve,Ricky Martin,NR
+T2_TRAIN_1054,La tequilera,Jenni Rivera,NR
+T2_TRAIN_1055,Don Diablo,Miguel Bosé,S
+T2_TRAIN_1056,La canelera,Los capos de mexico,V
+T2_TRAIN_1057,Cuernito armani,El Komander,NR
+T2_TRAIN_1058,Perdono y Olvido,Leonel García (Ft. Ana Torroja),NR
+T2_TRAIN_1059,Tan Celoso,Chimbala,S
+T2_TRAIN_1060,Un besito más,Jesse & Joy (Ft. Juan Luis Guerra),NR
+T2_TRAIN_1061,Alucinado,Yahir,NR
+T2_TRAIN_1062,Cuestion De Tiempo,Yoi Carrera,NR
+T2_TRAIN_1063,Yo Sin Tu Amor,Grupo Límite,NR
+T2_TRAIN_1064,Mi Mala,Mau y Ricky (Ft. KAROL G),S
+T2_TRAIN_1065,Viva El Amor,Remmy Valenzuela,NR
+T2_TRAIN_1066,Danza Rota,Soda Stereo,NR
+T2_TRAIN_1067,Rogaciano,Miguel Aceves Mejía,NR
+T2_TRAIN_1068,HP,Maluma,S
+T2_TRAIN_1069,Lo que me hiciste,Víctor Manuelle,NR
+T2_TRAIN_1070,Si Ella Quisiera,Justin Quiles,S
+T2_TRAIN_1071,"Anuel AA: Bzrp Music Sessions, Vol. 46",Bizarrap & Anuel AA,V
+T2_TRAIN_1072,Sentimettal,Moderatto,NR
+T2_TRAIN_1073,Cuando Te Entregues A Él,Banda Los Recoditos,NR
+T2_TRAIN_1074,Aceleras,Xavibo & El Hombre Viento,NR
+T2_TRAIN_1075,Yo Tengo Hoy,Gloria Trevi,NR
+T2_TRAIN_1076,Mi Niña,Ozuna,S
+T2_TRAIN_1077,Como Una Novela,Los Acosta,H
+T2_TRAIN_1078,A Cualquier Precio (Versión 2019),Valeria Lynch,NR
+T2_TRAIN_1079,Déjate Querer,"Lalo Ebratt, Sebastián Yatra & Yera (Ft. Trapical)",S
+T2_TRAIN_1080,Como olvidarla,La Firma,NR
+T2_TRAIN_1081,Hola Beba,Cosculluela,S
+T2_TRAIN_1082,Quiero Hacerte El Amor,Tito Rojas,S
+T2_TRAIN_1083,Medusa,"JHAYCO, Anuel AA & J Balvin",S
+T2_TRAIN_1084,No Te Puedo Querer,Young Bippo,S
+T2_TRAIN_1085,Atrevida,"DEKKO, Beéle & Montano (Ft. DEKKO & Montano)",S
+T2_TRAIN_1086,Con Dinero Baila el Perro,Peso Pluma,V
+T2_TRAIN_1087,Anacaona,Cheo Feliciano,NR
+T2_TRAIN_1088,Pa’ Que Aprenda A Bailar,Frankie Boy,S
+T2_TRAIN_1089,Te Busco,Cosculluela (Ft. Nicky Jam),S
+T2_TRAIN_1090,Olvídame Tú,Duelo,V
+T2_TRAIN_1091,Amor de Estudiante,El Poder Del Norte,NR
+T2_TRAIN_1092,Dilema,JHAYCO,S
+T2_TRAIN_1093,Los Lujos Del R,Enigma Norteño,S
+T2_TRAIN_1094,DM,Mueka (Ft. Cosculluela),S
+T2_TRAIN_1095,Rompecabezas,Aterciopelados,NR
+T2_TRAIN_1096,Adrenalina,Wisin (Ft. Jennifer Lopez & Ricky Martin),S
+T2_TRAIN_1097,Yo Soy Una Mujer,Jenni Rivera,NR
+T2_TRAIN_1098,Payaso,Arcángel,NR
+T2_TRAIN_1099,Soldadito marinero,Fito & Fitipaldis,NR
+T2_TRAIN_1100,Que te reemplace,Kcs,V
+T2_TRAIN_1101,La Chancla,La Bala,NR
+T2_TRAIN_1102,El Rey De La Popola,Rochy RD & Tokischa,S
+T2_TRAIN_1103,Allá en el Rancho Grande,Jorge Negrete,NR
+T2_TRAIN_1104,Corazón Acelerao,Wisin,S
+T2_TRAIN_1105,Te lo pido por favor,Pesado,NR
+T2_TRAIN_1106,te pongo mal(prendelo),Kali Uchis (Ft. Jowell & Randy),S
+T2_TRAIN_1107,Paz En Este Amor,Fidel Rueda,NR
+T2_TRAIN_1108,No Te Quites La Ropa,Emmanuel,S
+T2_TRAIN_1109,Mal Portado,El Makabelico & Luis R Conriquez (Ft. El Makabelico (Comando Exclusivo) & Luis R Conriquez),V
+T2_TRAIN_1110,Me Dejaste Abandonado,Frank Reyes,NR
+T2_TRAIN_1111,Estamos Arriba,Bad Bunny & Myke Towers,S
+T2_TRAIN_1112,Solamente Tú,Pablo Alborán,NR
+T2_TRAIN_1113,Te He Querido Te He Llorado,Ivy Queen,V
+T2_TRAIN_1114,Impacto,Enjambre,NR
+T2_TRAIN_1115,Nadie,Remmy Valenzuela,NR
+T2_TRAIN_1116,Cuánto Lo Siento (I’m Sorry),Roxette,NR
+T2_TRAIN_1117,No La Voy A Engañar,El Trono De México,H
+T2_TRAIN_1118,La Fiera,Los Tigrillos (Ft. Tropical Panamá),H
+T2_TRAIN_1119,Perro Andaluz,Serú Girán,NR
+T2_TRAIN_1120,La colorada,Pibes Chorros,S
+T2_TRAIN_1121,No Eres Nada,Enso Uno,NR
+T2_TRAIN_1122,Mi Amante,Valentín Elizalde,S
+T2_TRAIN_1123,Hoy Soy Feliz,Buknas de culiacan,NR
+T2_TRAIN_1124,Pura Falsedad,"Mark B (Ft. DJ Luian, Farruko, Justin Quiles & KEVIN ROLDAN)",S
+T2_TRAIN_1125,Malabares,Duelo,NR
+T2_TRAIN_1126,7 Días,Gabito Ballesteros & Tito Double P,V
+T2_TRAIN_1127,Quítate Que Ma’sturbas (Perra Arrabalera),Molotov,S
+T2_TRAIN_1128,A Mi Lao,Denom & El Jincho (Ft. El Alquimista & Hades),S
+T2_TRAIN_1129,RAM PAM PAM,NATTI NATASHA & Becky G,S
+T2_TRAIN_1130,La Traidora,Pedro Infante,H
+T2_TRAIN_1131,Obsesión,Aventura (Ft. Judy Santos),V
+T2_TRAIN_1132,Pobre Corazón,Ivy Queen (Ft. Divino),NR
+T2_TRAIN_1133,Inevitable,Dulce María,S
+T2_TRAIN_1134,Si No Fuera Por...,Soda Stereo,NR
+T2_TRAIN_1135,Sin un Amor,Carlos Rivera,NR
+T2_TRAIN_1136,Amor de Pobre,Zion (Ft. Eddie Dee),S
+T2_TRAIN_1137,Las Mujeres,"Cosculluela, Mueka & Jungl",NR
+T2_TRAIN_1138,Vos me enseñaste a amar,Dante Pereyra (Ft. Nit de Llum),NR
+T2_TRAIN_1139,Pégame Tu Vicio,Eddy Herrera,NR
+T2_TRAIN_1140,Una fiesta de la gran puta (Picnic en el cuarto ”C”),Zambayonny,V
+T2_TRAIN_1141,Como un perro,Libido,NR
+T2_TRAIN_1142,PÉRDONAME,María Sánchez (Ft. Dellachaouen),NR
+T2_TRAIN_1143,El Muro,Daddy Yankee,S
+T2_TRAIN_1144,Por Qué Tuvo Que Ser,El Poder Del Norte,NR
+T2_TRAIN_1145,Hoy voy a asesinarte,Siniestro Total,V
+T2_TRAIN_1146,Ni Tú Ni Nadie,Alaska y Dinarama,NR
+T2_TRAIN_1147,Hombre Casado,Los Shapis,NR
+T2_TRAIN_1148,Tú y las nubes,José Alfredo Jiménez,S
+T2_TRAIN_1149,Te Aprovechas,Grupo Límite,H
+T2_TRAIN_1150,Sufre como yo,Albert Pla,H
+T2_TRAIN_1151,No Te Hagas La Loca,Noriel (Ft. Manuel Turizo),H
+T2_TRAIN_1152,Chuy y Mauricio,El Potro de Sinaloa,NR
+T2_TRAIN_1153,Conteo,Don Omar,S
+T2_TRAIN_1154,Por Jugar Al Amor,Los betos,NR
+T2_TRAIN_1155,CUIDAO POR AHÍ,J Balvin & Bad Bunny,S
+T2_TRAIN_1156,La Hummer y el Camaro,Voz de Mando (Ft. Escolta de Guerra & Jorge Santacruz),NR
+T2_TRAIN_1157,Kloroformo en el Entorno,Flowklorikos (Ft. Shotta),V
+T2_TRAIN_1158,Luna Negra,Rey Ruiz,NR
+T2_TRAIN_1159,El Daño Que Me Haces,Olga Tañón,NR
+T2_TRAIN_1160,No Quiere Enamorarse,Ozuna,S
+T2_TRAIN_1161,Imaginaste,JHAYCO & Tainy,S
+T2_TRAIN_1162,Por Nada,Henry Santos,S
+T2_TRAIN_1163,La Mujer Policía,Eladio Romero Santos,S
+T2_TRAIN_1164,Desesperadamente,Eydie Gormé & Los Panchos,NR
+T2_TRAIN_1165,"Guitarras, lloren guitarras",Cuco Sanchez,NR
+T2_TRAIN_1166,El Caminante,La dinastia de tuzantla mich,NR
+T2_TRAIN_1167,El Amor De Mi Vida,La Energía Norteña,NR
+T2_TRAIN_1168,Porque Aún Te Amo,Luciano Pereyra,NR
